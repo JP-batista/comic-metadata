@@ -1,6 +1,6 @@
 # comic-metadata
 
-Base de metadados de quadrinhos (personagens, editoras, universos, equipes, criadores, eventos, séries e gêneros), versionada, multilíngue e desacoplada de qualquer aplicativo específico.
+Base de metadados de quadrinhos (personagens, editoras, universos, equipes, criadores e gêneros), versionada, multilíngue e desacoplada de qualquer aplicativo específico.
 
 Este repositório é a fonte de dados "editável". Qualquer aplicação (InkShelf ou outra) que precise classificar, exibir ou buscar informações sobre quadrinhos pode consumi-lo — diretamente ou através de um pacote compilado gerado a partir destes arquivos.
 
@@ -8,7 +8,8 @@ Este repositório é a fonte de dados "editável". Qualquer aplicação (InkShel
 
 - **Dados de origem, não dados otimizados.** Os arquivos aqui são pensados para serem fáceis de ler e editar por humanos. Otimizações de performance (índices de busca compilados, banco SQLite, etc.) devem ser geradas por uma ferramenta de build separada a partir destes arquivos — nunca editadas manualmente aqui.
 - **Estrutura e tradução são coisas diferentes.** `data/` contém apenas relações e fatos estruturais (IDs, referências entre entidades, caminhos de imagem). Textos voltados ao usuário (nome, descrição, ocupação) vivem em `i18n/<locale>/`, indexados pelo mesmo ID.
-- **IDs são slugs estáveis.** `spider-man`, `marvel`, `civil-war` — minúsculos, com hífen, nunca traduzidos. É o contrato entre `data/`, `i18n/` e `images/`.
+- **IDs são slugs estáveis.** `spider-man`, `marvel`, `avengers` — minúsculos, com hífen, nunca traduzidos. É o contrato entre `data/`, `i18n/` e `images/`.
+- **Sem catálogo de eventos/séries.** O app trabalha em cima dos arquivos que o próprio usuário já tem, não de uma lista editorial de edições — por isso não existe `events.json`/`series.json`. `relatedCharacters` continua existindo, mas é sempre opcional: um personagem pode não ter nenhum, e o usuário pode não ter nenhum arquivo do personagem relacionado na biblioteca dele.
 
 ## Estrutura
 
@@ -22,8 +23,6 @@ comic-metadata/
 │   ├── universes.json
 │   ├── teams.json
 │   ├── creators.json
-│   ├── events.json
-│   ├── series.json
 │   ├── genres.json
 │   ├── aliases.json       # variações de nome por idioma, usadas para gerar o índice de busca
 │   └── search_index.json  # nome normalizado -> id; tratar como derivado (ver "Índice de busca")
@@ -34,13 +33,11 @@ comic-metadata/
 │   │   ├── universes.json
 │   │   ├── teams.json
 │   │   ├── creators.json
-│   │   ├── events.json
-│   │   ├── series.json
 │   │   └── genres.json
 ├── images/
 │   ├── characters/<id>/{avatar,banner,logo,icon}.webp
 │   ├── publishers/<id>/...
-│   ├── teams/ universes/ creators/ events/ series/
+│   ├── teams/ universes/ creators/
 └── assets/
     ├── logos/  backgrounds/  placeholders/
 ```
@@ -53,13 +50,11 @@ comic-metadata/
 {
     "spider-man": {
         "publisher": "marvel",
-        "universe": "marvel",
+        "universe": "marvel-universe",
         "created": 1962,
         "firstAppearance": "amazing-fantasy-15",
         "creators": ["stan-lee", "steve-ditko"],
         "teams": ["avengers", "fantastic-four"],
-        "events": ["civil-war", "secret-invasion"],
-        "series": ["amazing-spider-man", "ultimate-spider-man"],
         "genres": ["superhero"],
         "relatedCharacters": ["venom", "green-goblin", "mary-jane", "miles-morales"],
         "images": {
@@ -72,7 +67,7 @@ comic-metadata/
 }
 ```
 
-Os demais arquivos de `data/` (`publishers.json`, `teams.json`, `universes.json`, `creators.json`, `events.json`, `series.json`, `genres.json`) seguem o mesmo padrão: chave = ID em slug, valor = apenas relações e fatos, sem texto traduzível.
+Os demais arquivos de `data/` (`publishers.json`, `teams.json`, `universes.json`, `creators.json`, `genres.json`) seguem o mesmo padrão: chave = ID em slug, valor = apenas relações e fatos, sem texto traduzível.
 
 ### `data/aliases.json`
 
@@ -127,9 +122,8 @@ Um diretório por ID: `images/<tipo>/<id>/<classe>.webp`. Os caminhos referencia
 |----------|-------------------------------------------------------------------------|--------------------------|
 | `avatar` | Retrato/close-up, quadrado. Rosto do personagem ou do autor.            | 1:1                      |
 | `banner` | Imagem larga, cinematográfica. Usada em cabeçalhos e telas de detalhe.  | 16:9                     |
-| `logo`   | Logotipo/wordmark oficial da entidade (editora, evento, equipe, franquia). | livre (fundo transparente ou de marca) |
+| `logo`   | Logotipo/wordmark oficial da entidade (editora, equipe, franquia).      | livre (fundo transparente ou de marca) |
 | `icon`   | Versão simplificada/reduzida, para listas, badges e tabs.               | 1:1                      |
-| `cover`  | Capa de uma edição/série específica.                                    | 2:3                      |
 
 #### Classes aplicáveis por tipo de entidade
 
@@ -140,11 +134,9 @@ Um diretório por ID: `images/<tipo>/<id>/<classe>.webp`. Os caminhos referencia
 | `universes`  | `banner`, `logo`                     |
 | `teams`      | `banner`, `logo`                     |
 | `creators`   | `avatar`, `banner`                   |
-| `events`     | `banner`, `logo`\*                   |
-| `series`     | `banner`, `cover`                    |
 | `genres`     | nenhuma (usa `icon` como nome simbólico de ícone, não caminho de imagem — ver `data/genres.json`) |
 
-\* `logo` em `characters`/`events` é opcional: só faz sentido quando o personagem ou evento tem um emblema/wordmark próprio usado oficialmente em capas e merchandising (ex.: o aranha do Homem-Aranha, o logo de "Civil War"). Nem todo personagem ou evento tem um.
+\* `logo` em `characters` é opcional: só faz sentido quando o personagem tem um emblema/wordmark próprio usado oficialmente em capas e merchandising (ex.: o aranha do Homem-Aranha). Nem todo personagem tem um.
 
 ### `version.json`
 

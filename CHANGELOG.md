@@ -21,6 +21,11 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), e o
 - Traduções (pt-BR/en-US/es-ES) de `publishers`, `universes`, `creators`, `teams` e `genres`.
 - Documentação das classes de imagem (`avatar`, `banner`, `logo`, `icon`, `cover`) e de quais se aplicam a cada tipo de entidade.
 
+### Removed
+
+- `events.json` e `series.json` (dados, i18n e pastas de imagem), em todos os locales. O app trabalha sobre os arquivos que o usuário já tem, não sobre um catálogo editorial de eventos/edições — esses tipos foram considerados específicos demais para o escopo atual.
+- Campos `events` e `series` removidos de `spider-man` em `data/characters.json`.
+
 ### Changed
 
 - `spider-man.universe` passou de `earth-616` para `marvel`, e depois para `marvel-universe`: o campo representa o universo compartilhado da editora, não uma continuidade específica — o mesmo personagem deve valer para 616, Ultimate etc. O ID final `marvel-universe` evita colisão com o ID `marvel` já usado em `publishers.json`.
