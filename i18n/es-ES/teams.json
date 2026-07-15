@@ -1,0 +1,10 @@
+{
+    "avengers": {
+        "name": "Vengadores",
+        "description": "Equipo de superhéroes de Marvel Comics formado para enfrentar amenazas que ningún héroe podría afrontar solo."
+    },
+    "fantastic-four": {
+        "name": "Cuatro Fantásticos",
+        "description": "Equipo de exploradores que obtuvo superpoderes tras exponerse a radiación cósmica durante una misión espacial."
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "marvel-universe": {
+        "publishers": [
+            "marvel"
+        ],
+        "images": {
+            "banner": "images/universes/marvel-universe/banner.webp",
+            "logo": "images/universes/marvel-universe/logo.webp"
+        }
+    }
+}

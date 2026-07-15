@@ -1,0 +1,10 @@
+{
+    "stan-lee": {
+        "name": "Stan Lee",
+        "description": "Roteirista, editor e ex-editor-chefe da Marvel Comics. Co-criou o Homem-Aranha, os Vingadores, o Quarteto Fantástico, os X-Men e diversos outros personagens icônicos."
+    },
+    "steve-ditko": {
+        "name": "Steve Ditko",
+        "description": "Desenhista e co-criador do Homem-Aranha e do Doutor Estranho ao lado de Stan Lee, conhecido por seu estilo visual único e surreal."
+    }
+}

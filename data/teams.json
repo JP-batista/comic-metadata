@@ -1,0 +1,29 @@
+{
+    "avengers": {
+        "publisher": "marvel",
+        "members": [
+            "iron-man",
+            "captain-america",
+            "thor",
+            "hulk",
+            "spider-man"
+        ],
+        "images": {
+            "banner": "images/teams/avengers/banner.webp",
+            "logo": "images/teams/avengers/logo.webp"
+        }
+    },
+    "fantastic-four": {
+        "publisher": "marvel",
+        "members": [
+            "mister-fantastic",
+            "invisible-woman",
+            "human-torch",
+            "thing"
+        ],
+        "images": {
+            "banner": "images/teams/fantastic-four/banner.webp",
+            "logo": "images/teams/fantastic-four/logo.webp"
+        }
+    }
+}

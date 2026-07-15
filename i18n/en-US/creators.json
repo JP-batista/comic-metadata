@@ -1,0 +1,10 @@
+{
+    "stan-lee": {
+        "name": "Stan Lee",
+        "description": "Writer, editor, and former editor-in-chief of Marvel Comics. Co-created Spider-Man, the Avengers, the Fantastic Four, the X-Men, and many other iconic characters."
+    },
+    "steve-ditko": {
+        "name": "Steve Ditko",
+        "description": "Artist and co-creator of Spider-Man and Doctor Strange alongside Stan Lee, known for his distinctive, surreal visual style."
+    }
+}

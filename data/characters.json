@@ -1,0 +1,39 @@
+{
+    "spider-man": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1962,
+        "firstAppearance": "amazing-fantasy-15",
+        "creators": [
+            "stan-lee",
+            "steve-ditko"
+        ],
+        "teams": [
+            "avengers",
+            "fantastic-four"
+        ],
+        "events": [
+            "civil-war",
+            "secret-invasion"
+        ],
+        "series": [
+            "amazing-spider-man",
+            "ultimate-spider-man"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "venom",
+            "green-goblin",
+            "mary-jane",
+            "miles-morales"
+        ],
+        "images": {
+            "avatar": "images/characters/spider-man/avatar.webp",
+            "banner": "images/characters/spider-man/banner.webp",
+            "logo": "images/characters/spider-man/logo.webp",
+            "icon": "images/characters/spider-man/icon.webp"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "marvel": {
+        "country": "USA",
+        "created": 1939,
+        "website": "https://www.marvel.com",
+        "images": {
+            "logo": "images/publishers/marvel/logo.webp",
+            "banner": "images/publishers/marvel/banner.webp",
+            "icon": "images/publishers/marvel/icon.webp"
+        }
+    }
+}

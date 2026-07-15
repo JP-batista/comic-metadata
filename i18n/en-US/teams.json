@@ -1,0 +1,10 @@
+{
+    "avengers": {
+        "name": "Avengers",
+        "description": "Team of Marvel Comics superheroes assembled to face threats no single hero could withstand alone."
+    },
+    "fantastic-four": {
+        "name": "Fantastic Four",
+        "description": "Team of explorers who gained superpowers after exposure to cosmic radiation during a space mission."
+    }
+}

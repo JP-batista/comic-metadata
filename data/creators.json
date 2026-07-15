@@ -1,0 +1,18 @@
+{
+    "stan-lee": {
+        "birth": "1922-12-28",
+        "death": "2018-11-12",
+        "images": {
+            "avatar": "images/creators/stan-lee/avatar.webp",
+            "banner": "images/creators/stan-lee/banner.webp"
+        }
+    },
+    "steve-ditko": {
+        "birth": "1927-11-02",
+        "death": "2018-06-29",
+        "images": {
+            "avatar": "images/creators/steve-ditko/avatar.webp",
+            "banner": "images/creators/steve-ditko/banner.webp"
+        }
+    }
+}

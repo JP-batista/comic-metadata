@@ -1,0 +1,26 @@
+{
+    "pt-BR": {
+        "spider-man": [
+            "homem-aranha",
+            "homem aranha"
+        ]
+    },
+    "en-US": {
+        "spider-man": [
+            "spider-man",
+            "spiderman",
+            "spider man",
+            "asm"
+        ]
+    },
+    "es-ES": {
+        "spider-man": [
+            "spiderman",
+            "hombre araña",
+            "hombre arana",
+            "el hombre araña"
+        ]
+    },
+    "fr-FR": {},
+    "de-DE": {}
+}

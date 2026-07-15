@@ -1,0 +1,8 @@
+{
+    "packages": [
+        {
+            "id": "core",
+            "version": 1
+        }
+    ]
+}

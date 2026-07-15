@@ -1,0 +1,10 @@
+{
+    "stan-lee": {
+        "name": "Stan Lee",
+        "description": "Guionista, editor y expresidente editorial de Marvel Comics. Co-creó a Spiderman, los Vengadores, los Cuatro Fantásticos, los X-Men y muchos otros personajes icónicos."
+    },
+    "steve-ditko": {
+        "name": "Steve Ditko",
+        "description": "Dibujante y co-creador de Spiderman y el Doctor Extraño junto a Stan Lee, conocido por su estilo visual distintivo y surrealista."
+    }
+}
