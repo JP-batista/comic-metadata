@@ -1,6 +1,6 @@
 {
-    "version": 2,
+    "version": 3,
     "releaseDate": "2026-07-15",
-    "minimumAppVersion": 2,
-    "metadataVersion": 2
+    "minimumAppVersion": 3,
+    "metadataVersion": 3
 }

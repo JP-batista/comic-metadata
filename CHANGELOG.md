@@ -29,3 +29,4 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), e o
 ### Changed
 
 - `spider-man.universe` passou de `earth-616` para `marvel`, e depois para `marvel-universe`: o campo representa o universo compartilhado da editora, não uma continuidade específica — o mesmo personagem deve valer para 616, Ultimate etc. O ID final `marvel-universe` evita colisão com o ID `marvel` já usado em `publishers.json`.
+- Logo de `marvel` substituído por uma versão em alta resolução com fundo transparente (2000×2000).
