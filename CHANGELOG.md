@@ -8,6 +8,20 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), e o
 
 ### Added
 
+- 13 novos personagens: `captain-america`, `daredevil`, `hawkeye`, `hulk`, `punisher`, `iron-fist`, `thor`, `wolverine`, `iron-man` (Marvel); `green-arrow` (DC); `invincible`, `spawn` (Image Comics); `tex` (Sergio Bonelli Editore). Dados estruturais completos + traduções pt-BR/en-US/es-ES + aliases/`search_index.json`. Imagens ainda pendentes.
+- Novo time: `x-men` (Marvel), com membros. `avengers.members` passou a incluir `hawkeye`.
+- Novas editoras: `dc`, `image-comics`, `bonelli`, com dados estruturais e traduções.
+- Novos universos: `dc-universe`, `invincible-universe`, `spawn-universe`, `tex-universe` — cada propriedade da Image Comics ficou com seu próprio universo (Image não é uma continuidade compartilhada como Marvel/DC).
+- Novo gênero: `western` (para `tex`), com tradução.
+
+### Changed
+
+- Creators referenciados pelos personagens desta leva (ex.: `jack-kirby`, `joe-simon`, `stan-lee`, `bill-everett`, `don-heck`, `gerry-conway`, `john-romita-sr`, `ross-andru`, `roy-thomas`, `gil-kane`, `larry-lieber`, `len-wein`, `herb-trimpe`, `mort-weisinger`, `george-papp`, `robert-kirkman`, `cory-walker`, `todd-mcfarlane`, `gian-luigi-bonelli`, `aurelio-galleppini`) ainda não têm entrada própria em `creators.json` — ficam como referência pendente, no mesmo padrão já usado para `relatedCharacters`.
+
+## [1] - 2026-07-15
+
+### Added
+
 - Estrutura inicial do repositório: `data/`, `i18n/` (pt-BR, en-US, es-ES, fr-FR, de-DE), `images/`, `assets/`.
 - `version.json` e `packages.json`.
 - README descrevendo convenções de cada arquivo e o fluxo de montagem de uma entidade.

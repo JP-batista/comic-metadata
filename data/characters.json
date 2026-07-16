@@ -27,5 +27,245 @@
             "logo": "images/characters/spider-man/logo.webp",
             "icon": "images/characters/spider-man/icon.webp"
         }
+    },
+    "captain-america": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1941,
+        "firstAppearance": "captain-america-comics-1",
+        "creators": [
+            "joe-simon",
+            "jack-kirby"
+        ],
+        "teams": [
+            "avengers"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "iron-man",
+            "black-widow",
+            "bucky-barnes"
+        ]
+    },
+    "daredevil": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1964,
+        "firstAppearance": "daredevil-1",
+        "creators": [
+            "stan-lee",
+            "bill-everett"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "kingpin",
+            "elektra"
+        ]
+    },
+    "hawkeye": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1964,
+        "firstAppearance": "tales-of-suspense-57",
+        "creators": [
+            "stan-lee",
+            "don-heck"
+        ],
+        "teams": [
+            "avengers"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "black-widow"
+        ]
+    },
+    "hulk": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1962,
+        "firstAppearance": "incredible-hulk-1",
+        "creators": [
+            "stan-lee",
+            "jack-kirby"
+        ],
+        "teams": [
+            "avengers"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "she-hulk"
+        ]
+    },
+    "punisher": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1974,
+        "firstAppearance": "amazing-spider-man-129",
+        "creators": [
+            "gerry-conway",
+            "john-romita-sr",
+            "ross-andru"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "spider-man"
+        ]
+    },
+    "iron-fist": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1974,
+        "firstAppearance": "marvel-premiere-15",
+        "creators": [
+            "roy-thomas",
+            "gil-kane"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "luke-cage"
+        ]
+    },
+    "thor": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1962,
+        "firstAppearance": "journey-into-mystery-83",
+        "creators": [
+            "stan-lee",
+            "larry-lieber",
+            "jack-kirby"
+        ],
+        "teams": [
+            "avengers"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "loki"
+        ]
+    },
+    "wolverine": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1974,
+        "firstAppearance": "incredible-hulk-181",
+        "creators": [
+            "len-wein",
+            "john-romita-sr",
+            "herb-trimpe"
+        ],
+        "teams": [
+            "x-men"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "cyclops",
+            "professor-x"
+        ]
+    },
+    "iron-man": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1963,
+        "firstAppearance": "tales-of-suspense-39",
+        "creators": [
+            "stan-lee",
+            "larry-lieber",
+            "don-heck",
+            "jack-kirby"
+        ],
+        "teams": [
+            "avengers"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "captain-america",
+            "war-machine"
+        ]
+    },
+    "green-arrow": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1941,
+        "firstAppearance": "more-fun-comics-73",
+        "creators": [
+            "mort-weisinger",
+            "george-papp"
+        ],
+        "teams": [
+            "justice-league"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "black-canary"
+        ]
+    },
+    "invincible": {
+        "publisher": "image-comics",
+        "universe": "invincible-universe",
+        "created": 2003,
+        "firstAppearance": "invincible-1",
+        "creators": [
+            "robert-kirkman",
+            "cory-walker"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "omni-man"
+        ]
+    },
+    "spawn": {
+        "publisher": "image-comics",
+        "universe": "spawn-universe",
+        "created": 1992,
+        "firstAppearance": "spawn-1",
+        "creators": [
+            "todd-mcfarlane"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": []
+    },
+    "tex": {
+        "publisher": "bonelli",
+        "universe": "tex-universe",
+        "created": 1948,
+        "firstAppearance": "tex-1",
+        "creators": [
+            "gian-luigi-bonelli",
+            "aurelio-galleppini"
+        ],
+        "teams": [],
+        "genres": [
+            "western"
+        ],
+        "relatedCharacters": []
     }
 }

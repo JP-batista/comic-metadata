@@ -8,5 +8,20 @@
             "banner": "images/publishers/marvel/banner.webp",
             "icon": "images/publishers/marvel/icon.webp"
         }
+    },
+    "dc": {
+        "country": "USA",
+        "created": 1934,
+        "website": "https://www.dc.com"
+    },
+    "image-comics": {
+        "country": "USA",
+        "created": 1992,
+        "website": "https://imagecomics.com"
+    },
+    "bonelli": {
+        "country": "Italy",
+        "created": 1940,
+        "website": "https://www.sergiobonelli.it"
     }
 }

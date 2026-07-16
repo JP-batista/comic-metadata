@@ -2,5 +2,17 @@
     "marvel": {
         "name": "Marvel Comics",
         "description": "Editora americana fundada em 1939, uma das maiores e mais influentes do mercado de quadrinhos."
+    },
+    "dc": {
+        "name": "DC Comics",
+        "description": "Editora americana fundada em 1934, uma das duas maiores do mercado de quadrinhos de super-heróis, criadora de Superman, Batman e Mulher-Maravilha."
+    },
+    "image-comics": {
+        "name": "Image Comics",
+        "description": "Editora americana fundada em 1992 por um grupo de artistas que deixaram a Marvel Comics, conhecida por permitir que os criadores mantenham os direitos autorais de suas obras."
+    },
+    "bonelli": {
+        "name": "Sergio Bonelli Editore",
+        "description": "Editora italiana fundada em 1940, referência em quadrinhos de faroeste e aventura na Itália, responsável por publicar Tex."
     }
 }

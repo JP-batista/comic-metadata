@@ -2,5 +2,17 @@
     "marvel": {
         "name": "Marvel Comics",
         "description": "American publisher founded in 1939, one of the largest and most influential in the comic book industry."
+    },
+    "dc": {
+        "name": "DC Comics",
+        "description": "American publisher founded in 1934, one of the two largest superhero comic publishers, creator of Superman, Batman, and Wonder Woman."
+    },
+    "image-comics": {
+        "name": "Image Comics",
+        "description": "American publisher founded in 1992 by a group of artists who left Marvel Comics, known for letting creators retain the copyright to their work."
+    },
+    "bonelli": {
+        "name": "Sergio Bonelli Editore",
+        "description": "Italian publisher founded in 1940, a reference in western and adventure comics in Italy, publisher of Tex."
     }
 }

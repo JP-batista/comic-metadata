@@ -2,5 +2,21 @@
     "marvel-universe": {
         "name": "Marvel Universe",
         "description": "The shared continuity where most stories published by Marvel Comics take place, including Earth-616 and alternate realities such as the Ultimate Universe."
+    },
+    "dc-universe": {
+        "name": "DC Universe",
+        "description": "The shared continuity where most stories published by DC Comics take place."
+    },
+    "invincible-universe": {
+        "name": "Invincible Universe",
+        "description": "The continuity of the Invincible series, created by Robert Kirkman and published by Image Comics, independent from the rest of the publisher's catalog."
+    },
+    "spawn-universe": {
+        "name": "Spawn Universe",
+        "description": "The continuity of the Spawn series, created by Todd McFarlane and published by Image Comics, independent from the rest of the publisher's catalog."
+    },
+    "tex-universe": {
+        "name": "Tex Universe",
+        "description": "The fictional Old West continuity where the Tex Willer stories take place, published by Sergio Bonelli Editore since 1948."
     }
 }

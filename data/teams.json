@@ -6,7 +6,8 @@
             "captain-america",
             "thor",
             "hulk",
-            "spider-man"
+            "spider-man",
+            "hawkeye"
         ],
         "images": {
             "banner": "images/teams/avengers/banner.webp",
@@ -25,5 +26,15 @@
             "banner": "images/teams/fantastic-four/banner.webp",
             "logo": "images/teams/fantastic-four/logo.webp"
         }
+    },
+    "x-men": {
+        "publisher": "marvel",
+        "members": [
+            "wolverine",
+            "cyclops",
+            "jean-grey",
+            "storm",
+            "professor-x"
+        ]
     }
 }

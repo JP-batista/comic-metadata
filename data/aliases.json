@@ -3,6 +3,49 @@
         "spider-man": [
             "homem-aranha",
             "homem aranha"
+        ],
+        "captain-america": [
+            "capitao america",
+            "capitão américa"
+        ],
+        "daredevil": [
+            "demolidor"
+        ],
+        "hawkeye": [
+            "gaviao arqueiro",
+            "gavião arqueiro"
+        ],
+        "hulk": [
+            "hulk"
+        ],
+        "punisher": [
+            "justiceiro"
+        ],
+        "iron-fist": [
+            "punho de ferro"
+        ],
+        "thor": [
+            "thor"
+        ],
+        "wolverine": [
+            "wolverine"
+        ],
+        "iron-man": [
+            "homem de ferro"
+        ],
+        "green-arrow": [
+            "arqueiro verde"
+        ],
+        "invincible": [
+            "invencivel",
+            "invencível"
+        ],
+        "spawn": [
+            "spawn"
+        ],
+        "tex": [
+            "tex",
+            "tex willer"
         ]
     },
     "en-US": {
@@ -11,6 +54,51 @@
             "spiderman",
             "spider man",
             "asm"
+        ],
+        "captain-america": [
+            "captain america",
+            "cap"
+        ],
+        "daredevil": [
+            "daredevil",
+            "dd"
+        ],
+        "hawkeye": [
+            "hawkeye"
+        ],
+        "hulk": [
+            "hulk",
+            "the hulk"
+        ],
+        "punisher": [
+            "punisher",
+            "the punisher"
+        ],
+        "iron-fist": [
+            "iron fist"
+        ],
+        "thor": [
+            "thor"
+        ],
+        "wolverine": [
+            "wolverine",
+            "logan"
+        ],
+        "iron-man": [
+            "iron man"
+        ],
+        "green-arrow": [
+            "green arrow"
+        ],
+        "invincible": [
+            "invincible"
+        ],
+        "spawn": [
+            "spawn"
+        ],
+        "tex": [
+            "tex",
+            "tex willer"
         ]
     },
     "es-ES": {
@@ -19,6 +107,53 @@
             "hombre araña",
             "hombre arana",
             "el hombre araña"
+        ],
+        "captain-america": [
+            "capitan america",
+            "capitán américa"
+        ],
+        "daredevil": [
+            "daredevil"
+        ],
+        "hawkeye": [
+            "ojo de halcon",
+            "ojo de halcón"
+        ],
+        "hulk": [
+            "hulk"
+        ],
+        "punisher": [
+            "punisher",
+            "castigador"
+        ],
+        "iron-fist": [
+            "puno de hierro",
+            "puño de hierro"
+        ],
+        "thor": [
+            "thor"
+        ],
+        "wolverine": [
+            "wolverine",
+            "lobezno"
+        ],
+        "iron-man": [
+            "iron man",
+            "hombre de hierro"
+        ],
+        "green-arrow": [
+            "flecha verde",
+            "arquero verde"
+        ],
+        "invincible": [
+            "invencible"
+        ],
+        "spawn": [
+            "spawn"
+        ],
+        "tex": [
+            "tex",
+            "tex willer"
         ]
     },
     "fr-FR": {},

@@ -2,5 +2,21 @@
     "marvel-universe": {
         "name": "Universo Marvel",
         "description": "Continuidade compartilhada onde se passam a maioria das histórias publicadas pela Marvel Comics, incluindo a Terra-616 e realidades alternativas como o Universo Ultimate."
+    },
+    "dc-universe": {
+        "name": "Universo DC",
+        "description": "Continuidade compartilhada onde se passam a maioria das histórias publicadas pela DC Comics."
+    },
+    "invincible-universe": {
+        "name": "Universo de Invencível",
+        "description": "Continuidade própria da série Invencível, criada por Robert Kirkman e publicada pela Image Comics, independente do restante do catálogo da editora."
+    },
+    "spawn-universe": {
+        "name": "Universo de Spawn",
+        "description": "Continuidade própria da série Spawn, criada por Todd McFarlane e publicada pela Image Comics, independente do restante do catálogo da editora."
+    },
+    "tex-universe": {
+        "name": "Universo de Tex",
+        "description": "Continuidade do faroeste fictício onde se passam as histórias de Tex Willer, publicadas pela Sergio Bonelli Editore desde 1948."
     }
 }

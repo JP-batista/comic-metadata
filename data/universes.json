@@ -7,5 +7,25 @@
             "banner": "images/universes/marvel-universe/banner.webp",
             "logo": "images/universes/marvel-universe/logo.webp"
         }
+    },
+    "dc-universe": {
+        "publishers": [
+            "dc"
+        ]
+    },
+    "invincible-universe": {
+        "publishers": [
+            "image-comics"
+        ]
+    },
+    "spawn-universe": {
+        "publishers": [
+            "image-comics"
+        ]
+    },
+    "tex-universe": {
+        "publishers": [
+            "bonelli"
+        ]
     }
 }

@@ -1,5 +1,8 @@
 {
     "superhero": {
         "name": "Super-herói"
+    },
+    "western": {
+        "name": "Faroeste"
     }
 }

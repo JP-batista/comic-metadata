@@ -6,5 +6,9 @@
     "fantastic-four": {
         "name": "Cuatro Fantásticos",
         "description": "Equipo de exploradores que obtuvo superpoderes tras exponerse a radiación cósmica durante una misión espacial."
+    },
+    "x-men": {
+        "name": "X-Men",
+        "description": "Equipo de mutantes de Marvel Comics que lucha por un mundo donde humanos y mutantes puedan coexistir en paz, bajo el liderazgo del Profesor Xavier."
     }
 }

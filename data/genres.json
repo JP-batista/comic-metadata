@@ -1,5 +1,8 @@
 {
     "superhero": {
         "icon": "hero"
+    },
+    "western": {
+        "icon": "western"
     }
 }

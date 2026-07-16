@@ -6,5 +6,9 @@
     "fantastic-four": {
         "name": "Fantastic Four",
         "description": "Team of explorers who gained superpowers after exposure to cosmic radiation during a space mission."
+    },
+    "x-men": {
+        "name": "X-Men",
+        "description": "Team of Marvel Comics mutants fighting for a world where humans and mutants can coexist peacefully, led by Professor Xavier."
     }
 }

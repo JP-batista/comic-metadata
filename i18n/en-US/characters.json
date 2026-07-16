@@ -4,5 +4,83 @@
         "description": "Peter Parker is a superhero who gains spider-like abilities after being bitten by a radioactive spider. Created by Stan Lee and Steve Ditko, he debuted in 1962 and became one of Marvel Comics' most popular characters.",
         "firstAppearance": "Amazing Fantasy #15",
         "occupation": "Freelance photographer"
+    },
+    "captain-america": {
+        "name": "Captain America",
+        "description": "Steve Rogers is a super-soldier who has fought for freedom and justice since World War II. Created by Joe Simon and Jack Kirby, he debuted in 1941 and became one of Marvel's greatest hero icons.",
+        "firstAppearance": "Captain America Comics #1",
+        "occupation": "Soldier"
+    },
+    "daredevil": {
+        "name": "Daredevil",
+        "description": "Matt Murdock is a blind lawyer who, after an accident with radioactive material, had his remaining senses heightened to superhuman levels. Created by Stan Lee and Bill Everett, he debuted in 1964.",
+        "firstAppearance": "Daredevil #1",
+        "occupation": "Lawyer"
+    },
+    "hawkeye": {
+        "name": "Hawkeye",
+        "description": "Clint Barton is an archer and master marksman with no superhuman powers, a longtime member of the Avengers. Created by Stan Lee and Don Heck, he debuted in 1964.",
+        "firstAppearance": "Tales of Suspense #57",
+        "occupation": "Archer"
+    },
+    "hulk": {
+        "name": "Hulk",
+        "description": "Bruce Banner is a scientist who transforms into a green creature of immense strength when enraged, after a gamma radiation accident. Created by Stan Lee and Jack Kirby, he debuted in 1962.",
+        "firstAppearance": "Incredible Hulk #1",
+        "occupation": "Physicist"
+    },
+    "punisher": {
+        "name": "Punisher",
+        "description": "Frank Castle is a former Marine who becomes a ruthless vigilante after his family is murdered, fighting crime with lethal methods. Created by Gerry Conway, John Romita Sr., and Ross Andru, he debuted in 1974.",
+        "firstAppearance": "Amazing Spider-Man #129",
+        "occupation": "Vigilante"
+    },
+    "iron-fist": {
+        "name": "Iron Fist",
+        "description": "Danny Rand is a martial arts master who obtained the mystical power of the Iron Fist in the city of K'un-Lun. Created by Roy Thomas and Gil Kane, he debuted in 1974.",
+        "firstAppearance": "Marvel Premiere #15",
+        "occupation": "Businessman / Martial artist"
+    },
+    "thor": {
+        "name": "Thor",
+        "description": "The Asgardian god of thunder and son of Odin, wielder of the enchanted hammer Mjolnir. Created by Stan Lee, Larry Lieber, and Jack Kirby, he debuted in 1962.",
+        "firstAppearance": "Journey into Mystery #83",
+        "occupation": "Asgardian god"
+    },
+    "wolverine": {
+        "name": "Wolverine",
+        "description": "Logan is a mutant with an accelerated healing factor, retractable claws (later coated in adamantium), and heightened senses. Created by Len Wein, John Romita Sr., and Herb Trimpe, he debuted in 1974.",
+        "firstAppearance": "Incredible Hulk #181",
+        "occupation": "Mercenary / Teacher"
+    },
+    "iron-man": {
+        "name": "Iron Man",
+        "description": "Tony Stark is a billionaire engineer who built a technological suit of armor to survive and fight crime. Created by Stan Lee, Larry Lieber, Don Heck, and Jack Kirby, he debuted in 1963.",
+        "firstAppearance": "Tales of Suspense #39",
+        "occupation": "Businessman / Engineer"
+    },
+    "green-arrow": {
+        "name": "Green Arrow",
+        "description": "Oliver Queen is a millionaire who becomes a vigilante archer after being stranded on a deserted island. Created by Mort Weisinger and George Papp for DC Comics, he debuted in 1941.",
+        "firstAppearance": "More Fun Comics #73",
+        "occupation": "Businessman / Archer"
+    },
+    "invincible": {
+        "name": "Invincible",
+        "description": "Mark Grayson is a teenager who discovers he has the same powers as his father, the hero Omni-Man, and takes up the mantle of Invincible. Created by Robert Kirkman and Cory Walker, he debuted in 2003 through Image Comics.",
+        "firstAppearance": "Invincible #1",
+        "occupation": "Student"
+    },
+    "spawn": {
+        "name": "Spawn",
+        "description": "Al Simmons is a murdered mercenary who returns from Hell as a Hellspawn, seeking revenge and redemption. Created by Todd McFarlane, he debuted in 1992 through Image Comics.",
+        "firstAppearance": "Spawn #1",
+        "occupation": "Hellspawn"
+    },
+    "tex": {
+        "name": "Tex Willer",
+        "description": "Tex Willer is a former outlaw who becomes a Texas Ranger and defender of justice in the American Old West, as well as an honorary Navajo chief. Created by Gian Luigi Bonelli and Aurelio Galleppini, he debuted in 1948 in Italy.",
+        "firstAppearance": "Tex #1",
+        "occupation": "Ranger"
     }
 }

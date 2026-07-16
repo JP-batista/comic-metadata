@@ -1,5 +1,8 @@
 {
     "superhero": {
         "name": "Superhéroe"
+    },
+    "western": {
+        "name": "Western"
     }
 }
