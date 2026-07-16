@@ -47,7 +47,11 @@
             "iron-man",
             "black-widow",
             "bucky-barnes"
-        ]
+        ],
+        "images": {
+            "avatar": "images/characters/captain-america/avatar.webp",
+            "banner": "images/characters/captain-america/banner.webp"
+        }
     },
     "daredevil": {
         "publisher": "marvel",
@@ -65,7 +69,11 @@
         "relatedCharacters": [
             "kingpin",
             "elektra"
-        ]
+        ],
+        "images": {
+            "avatar": "images/characters/daredevil/avatar.webp",
+            "banner": "images/characters/daredevil/banner.webp"
+        }
     },
     "hawkeye": {
         "publisher": "marvel",
