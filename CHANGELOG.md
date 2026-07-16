@@ -19,8 +19,12 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), e o
 - Banners de `dc-universe`, `invincible-universe`, `spawn-universe`, `tex-universe` — completa todos os universos.
 - `x-men`: banner + logo — completa todos os times.
 - 2 novos personagens DC: `batman` (Detective Comics #27, 1939, Bob Kane e Bill Finger) e `green-lantern` (Showcase #22, 1959, John Broome e Gil Kane). Dados estruturais completos, imagens (`avatar`, `banner`), traduções pt-BR/en-US/es-ES, aliases e `search_index.json`.
+- `data/aliases.json` e `data/search_index.json` passaram a cobrir todos os tipos de entidade (editoras, times, universos, gêneros), não só personagens.
 
 ### Changed
+
+- `data/search_index.json` mudou de formato: valores eram um ID simples (`"nome": "spider-man"`), agora são um objeto `{ type, id }` (`"nome": { "type": "character", "id": "spider-man" } }`), necessário para o app saber em qual arquivo de `data/` procurar cada resultado agora que o índice cobre vários tipos.
+- Logos de `avengers`, `fantastic-four` e `x-men` substituídos por novas artes de quadrinho.
 
 - Creators referenciados pelos personagens desta leva (ex.: `jack-kirby`, `joe-simon`, `stan-lee`, `bill-everett`, `don-heck`, `gerry-conway`, `john-romita-sr`, `ross-andru`, `roy-thomas`, `gil-kane`, `larry-lieber`, `len-wein`, `herb-trimpe`, `mort-weisinger`, `george-papp`, `robert-kirkman`, `cory-walker`, `todd-mcfarlane`, `gian-luigi-bonelli`, `aurelio-galleppini`) ainda não têm entrada própria em `creators.json` — ficam como referência pendente, no mesmo padrão já usado para `relatedCharacters`.
 

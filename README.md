@@ -71,33 +71,39 @@ Os demais arquivos de `data/` (`publishers.json`, `teams.json`, `universes.json`
 
 ### `data/aliases.json`
 
-Variações de nome por idioma, usadas para *gerar* o índice de busca — não são o índice em si.
+Variações de nome por idioma, usadas para *gerar* o índice de busca — não são o índice em si. Cobre todos os tipos de entidade (personagens, editoras, times, universos, gêneros), não só personagens — como os IDs são únicos entre tipos (ver "IDs são slugs estáveis" acima), todos cabem no mesmo mapa por idioma sem ambiguidade.
 
 ```json
 {
     "pt-BR": {
-        "spider-man": ["homem-aranha", "homem aranha"]
+        "spider-man": ["homem-aranha", "homem aranha"],
+        "marvel": ["marvel", "marvel comics"],
+        "avengers": ["vingadores"]
     },
     "en-US": {
-        "spider-man": ["spider-man", "spiderman", "asm"]
+        "spider-man": ["spider-man", "spiderman", "asm"],
+        "marvel": ["marvel", "marvel comics"],
+        "avengers": ["avengers"]
     }
 }
 ```
 
 ### `data/search_index.json` — tratar como derivado
 
-Mapeia nome normalizado → ID. É consultado pelo app ao classificar um arquivo, para evitar percorrer todos os aliases.
+Mapeia nome normalizado → `{ type, id }`. É consultado pelo app ao classificar um arquivo, para evitar percorrer todos os aliases. O campo `type` diz em qual arquivo de `data/` procurar o registro completo (`characters.json`, `publishers.json`, `teams.json`, `universes.json` ou `genres.json`).
 
 ```json
 {
-    "homem-aranha": "spider-man",
-    "spider-man": "spider-man",
-    "spiderman": "spider-man",
-    "asm": "spider-man"
+    "homem-aranha": { "type": "character", "id": "spider-man" },
+    "spider-man": { "type": "character", "id": "spider-man" },
+    "marvel": { "type": "publisher", "id": "marvel" },
+    "vingadores": { "type": "team", "id": "avengers" },
+    "universo marvel": { "type": "universe", "id": "marvel-universe" },
+    "faroeste": { "type": "genre", "id": "western" }
 }
 ```
 
-**Não edite este arquivo manualmente.** Ele deve ser (re)gerado a partir de `characters.json` + `aliases.json` (e equivalentes de outros tipos) por uma ferramenta de build, para nunca ficar dessincronizado. Está commitado por conveniência enquanto não existe uma pipeline de build separada — quando essa ferramenta existir, ele deixa de ser fonte e passa a ser artefato de release.
+**Não edite este arquivo manualmente.** Ele deve ser (re)gerado a partir de `characters.json`/`publishers.json`/`teams.json`/`universes.json`/`genres.json` + `aliases.json` por uma ferramenta de build, para nunca ficar dessincronizado. Está commitado por conveniência enquanto não existe uma pipeline de build separada — quando essa ferramenta existir, ele deixa de ser fonte e passa a ser artefato de release.
 
 ### `i18n/<locale>/characters.json`
 

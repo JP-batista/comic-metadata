@@ -54,6 +54,62 @@
         ],
         "green-lantern": [
             "lanterna verde"
+        ],
+        "marvel": [
+            "marvel",
+            "marvel comics"
+        ],
+        "dc": [
+            "dc",
+            "dc comics"
+        ],
+        "image-comics": [
+            "image",
+            "image comics"
+        ],
+        "bonelli": [
+            "bonelli",
+            "sergio bonelli editore",
+            "editora bonelli"
+        ],
+        "avengers": [
+            "vingadores"
+        ],
+        "fantastic-four": [
+            "quarteto fantastico",
+            "quarteto fantástico"
+        ],
+        "x-men": [
+            "x-men",
+            "x men"
+        ],
+        "marvel-universe": [
+            "universo marvel"
+        ],
+        "dc-universe": [
+            "universo dc"
+        ],
+        "invincible-universe": [
+            "universo invencivel",
+            "universo de invencível"
+        ],
+        "spawn-universe": [
+            "universo spawn",
+            "universo de spawn"
+        ],
+        "tex-universe": [
+            "universo tex",
+            "universo de tex"
+        ],
+        "superhero": [
+            "super-heroi",
+            "super heroi",
+            "superheroi",
+            "super-herói"
+        ],
+        "western": [
+            "faroeste",
+            "velho oeste"
         ]
     },
     "en-US": {
@@ -116,6 +172,54 @@
         "green-lantern": [
             "green lantern",
             "hal jordan"
+        ],
+        "marvel": [
+            "marvel",
+            "marvel comics"
+        ],
+        "dc": [
+            "dc",
+            "dc comics"
+        ],
+        "image-comics": [
+            "image",
+            "image comics"
+        ],
+        "bonelli": [
+            "bonelli",
+            "sergio bonelli editore"
+        ],
+        "avengers": [
+            "avengers"
+        ],
+        "fantastic-four": [
+            "fantastic four"
+        ],
+        "x-men": [
+            "x-men",
+            "x men"
+        ],
+        "marvel-universe": [
+            "marvel universe"
+        ],
+        "dc-universe": [
+            "dc universe"
+        ],
+        "invincible-universe": [
+            "invincible universe"
+        ],
+        "spawn-universe": [
+            "spawn universe"
+        ],
+        "tex-universe": [
+            "tex universe"
+        ],
+        "superhero": [
+            "superhero",
+            "super hero"
+        ],
+        "western": [
+            "western"
         ]
     },
     "es-ES": {
@@ -179,6 +283,61 @@
         ],
         "green-lantern": [
             "linterna verde"
+        ],
+        "marvel": [
+            "marvel",
+            "marvel comics"
+        ],
+        "dc": [
+            "dc",
+            "dc comics"
+        ],
+        "image-comics": [
+            "image",
+            "image comics"
+        ],
+        "bonelli": [
+            "bonelli",
+            "sergio bonelli editore",
+            "editorial bonelli"
+        ],
+        "avengers": [
+            "vengadores"
+        ],
+        "fantastic-four": [
+            "cuatro fantasticos",
+            "cuatro fantásticos",
+            "los 4 fantasticos"
+        ],
+        "x-men": [
+            "x-men",
+            "x men"
+        ],
+        "marvel-universe": [
+            "universo marvel"
+        ],
+        "dc-universe": [
+            "universo dc"
+        ],
+        "invincible-universe": [
+            "universo invencible"
+        ],
+        "spawn-universe": [
+            "universo spawn",
+            "universo de spawn"
+        ],
+        "tex-universe": [
+            "universo tex",
+            "universo de tex"
+        ],
+        "superhero": [
+            "superheroe",
+            "super heroe",
+            "superhéroe"
+        ],
+        "western": [
+            "western",
+            "oeste"
         ]
     },
     "fr-FR": {},
