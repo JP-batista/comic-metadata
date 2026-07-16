@@ -25,6 +25,8 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), e o
 
 - `data/search_index.json` mudou de formato: valores eram um ID simples (`"nome": "spider-man"`), agora são um objeto `{ type, id }` (`"nome": { "type": "character", "id": "spider-man" } }`), necessário para o app saber em qual arquivo de `data/` procurar cada resultado agora que o índice cobre vários tipos.
 - Logos de `avengers`, `fantastic-four` e `x-men` substituídos por novas artes de quadrinho.
+- `teams.json` ganhou os campos `universe`, `created`, `firstAppearance` e `creators` para os 3 times (mesmo padrão já usado em `characters.json`): Avengers #1 (1963), Fantastic Four #1 (1961) e The X-Men #1 (1963), todos por Stan Lee e Jack Kirby. `firstAppearance` (texto de exibição) também adicionado nas traduções.
+- `data/search_index.json` regenerado do zero a partir de `aliases.json` + todos os arquivos de `data/` (109 → 122 entradas). Corrige o alias `invencible` (es-ES) que nunca tinha sido propagado, e passa a incluir o próprio ID de cada entidade como termo pesquisável (antes só as variações cadastradas em `aliases.json` funcionavam).
 
 - Creators referenciados pelos personagens desta leva (ex.: `jack-kirby`, `joe-simon`, `stan-lee`, `bill-everett`, `don-heck`, `gerry-conway`, `john-romita-sr`, `ross-andru`, `roy-thomas`, `gil-kane`, `larry-lieber`, `len-wein`, `herb-trimpe`, `mort-weisinger`, `george-papp`, `robert-kirkman`, `cory-walker`, `todd-mcfarlane`, `gian-luigi-bonelli`, `aurelio-galleppini`) ainda não têm entrada própria em `creators.json` — ficam como referência pendente, no mesmo padrão já usado para `relatedCharacters`.
 

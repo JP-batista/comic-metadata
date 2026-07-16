@@ -1,14 +1,17 @@
 {
     "avengers": {
         "name": "Vingadores",
-        "description": "Equipe de super-heróis da Marvel Comics formada para enfrentar ameaças que nenhum herói sozinho conseguiria deter."
+        "description": "Equipe de super-heróis da Marvel Comics formada para enfrentar ameaças que nenhum herói sozinho conseguiria deter.",
+        "firstAppearance": "The Avengers #1"
     },
     "fantastic-four": {
         "name": "Quarteto Fantástico",
-        "description": "Equipe de exploradores que ganhou superpoderes após uma exposição à radiação cósmica durante uma missão espacial."
+        "description": "Equipe de exploradores que ganhou superpoderes após uma exposição à radiação cósmica durante uma missão espacial.",
+        "firstAppearance": "Fantastic Four #1"
     },
     "x-men": {
         "name": "X-Men",
-        "description": "Equipe de mutantes da Marvel Comics que luta por um mundo onde humanos e mutantes possam coexistir em paz, sob a liderança do Professor Xavier."
+        "description": "Equipe de mutantes da Marvel Comics que luta por um mundo onde humanos e mutantes possam coexistir em paz, sob a liderança do Professor Xavier.",
+        "firstAppearance": "The X-Men #1"
     }
 }

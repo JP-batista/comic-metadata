@@ -1,6 +1,13 @@
 {
     "avengers": {
         "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1963,
+        "firstAppearance": "avengers-1",
+        "creators": [
+            "stan-lee",
+            "jack-kirby"
+        ],
         "members": [
             "iron-man",
             "captain-america",
@@ -16,6 +23,13 @@
     },
     "fantastic-four": {
         "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1961,
+        "firstAppearance": "fantastic-four-1",
+        "creators": [
+            "stan-lee",
+            "jack-kirby"
+        ],
         "members": [
             "mister-fantastic",
             "invisible-woman",
@@ -29,6 +43,13 @@
     },
     "x-men": {
         "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1963,
+        "firstAppearance": "x-men-1",
+        "creators": [
+            "stan-lee",
+            "jack-kirby"
+        ],
         "members": [
             "wolverine",
             "cyclops",

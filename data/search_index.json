@@ -3,91 +3,15 @@
         "type": "character",
         "id": "spider-man"
     },
-    "spiderman": {
-        "type": "character",
-        "id": "spider-man"
-    },
-    "spider man": {
-        "type": "character",
-        "id": "spider-man"
-    },
-    "asm": {
-        "type": "character",
-        "id": "spider-man"
-    },
-    "homem-aranha": {
-        "type": "character",
-        "id": "spider-man"
-    },
-    "homem aranha": {
-        "type": "character",
-        "id": "spider-man"
-    },
-    "hombre araña": {
-        "type": "character",
-        "id": "spider-man"
-    },
-    "hombre arana": {
-        "type": "character",
-        "id": "spider-man"
-    },
-    "el hombre araña": {
-        "type": "character",
-        "id": "spider-man"
-    },
-    "capitao america": {
+    "captain-america": {
         "type": "character",
         "id": "captain-america"
-    },
-    "capitão américa": {
-        "type": "character",
-        "id": "captain-america"
-    },
-    "captain america": {
-        "type": "character",
-        "id": "captain-america"
-    },
-    "cap": {
-        "type": "character",
-        "id": "captain-america"
-    },
-    "capitan america": {
-        "type": "character",
-        "id": "captain-america"
-    },
-    "capitán américa": {
-        "type": "character",
-        "id": "captain-america"
-    },
-    "demolidor": {
-        "type": "character",
-        "id": "daredevil"
     },
     "daredevil": {
         "type": "character",
         "id": "daredevil"
     },
-    "dd": {
-        "type": "character",
-        "id": "daredevil"
-    },
-    "gaviao arqueiro": {
-        "type": "character",
-        "id": "hawkeye"
-    },
-    "gavião arqueiro": {
-        "type": "character",
-        "id": "hawkeye"
-    },
     "hawkeye": {
-        "type": "character",
-        "id": "hawkeye"
-    },
-    "ojo de halcon": {
-        "type": "character",
-        "id": "hawkeye"
-    },
-    "ojo de halcón": {
         "type": "character",
         "id": "hawkeye"
     },
@@ -95,39 +19,11 @@
         "type": "character",
         "id": "hulk"
     },
-    "the hulk": {
-        "type": "character",
-        "id": "hulk"
-    },
-    "justiceiro": {
-        "type": "character",
-        "id": "punisher"
-    },
     "punisher": {
         "type": "character",
         "id": "punisher"
     },
-    "the punisher": {
-        "type": "character",
-        "id": "punisher"
-    },
-    "castigador": {
-        "type": "character",
-        "id": "punisher"
-    },
-    "punho de ferro": {
-        "type": "character",
-        "id": "iron-fist"
-    },
-    "iron fist": {
-        "type": "character",
-        "id": "iron-fist"
-    },
-    "puno de hierro": {
-        "type": "character",
-        "id": "iron-fist"
-    },
-    "puño de hierro": {
+    "iron-fist": {
         "type": "character",
         "id": "iron-fist"
     },
@@ -139,49 +35,13 @@
         "type": "character",
         "id": "wolverine"
     },
-    "logan": {
-        "type": "character",
-        "id": "wolverine"
-    },
-    "lobezno": {
-        "type": "character",
-        "id": "wolverine"
-    },
-    "homem de ferro": {
+    "iron-man": {
         "type": "character",
         "id": "iron-man"
     },
-    "iron man": {
-        "type": "character",
-        "id": "iron-man"
-    },
-    "hombre de hierro": {
-        "type": "character",
-        "id": "iron-man"
-    },
-    "arqueiro verde": {
+    "green-arrow": {
         "type": "character",
         "id": "green-arrow"
-    },
-    "green arrow": {
-        "type": "character",
-        "id": "green-arrow"
-    },
-    "flecha verde": {
-        "type": "character",
-        "id": "green-arrow"
-    },
-    "arquero verde": {
-        "type": "character",
-        "id": "green-arrow"
-    },
-    "invencivel": {
-        "type": "character",
-        "id": "invincible"
-    },
-    "invencível": {
-        "type": "character",
-        "id": "invincible"
     },
     "invincible": {
         "type": "character",
@@ -195,13 +55,125 @@
         "type": "character",
         "id": "tex"
     },
-    "tex willer": {
-        "type": "character",
-        "id": "tex"
-    },
     "batman": {
         "type": "character",
         "id": "batman"
+    },
+    "green-lantern": {
+        "type": "character",
+        "id": "green-lantern"
+    },
+    "marvel": {
+        "type": "publisher",
+        "id": "marvel"
+    },
+    "dc": {
+        "type": "publisher",
+        "id": "dc"
+    },
+    "image-comics": {
+        "type": "publisher",
+        "id": "image-comics"
+    },
+    "bonelli": {
+        "type": "publisher",
+        "id": "bonelli"
+    },
+    "avengers": {
+        "type": "team",
+        "id": "avengers"
+    },
+    "fantastic-four": {
+        "type": "team",
+        "id": "fantastic-four"
+    },
+    "x-men": {
+        "type": "team",
+        "id": "x-men"
+    },
+    "marvel-universe": {
+        "type": "universe",
+        "id": "marvel-universe"
+    },
+    "dc-universe": {
+        "type": "universe",
+        "id": "dc-universe"
+    },
+    "invincible-universe": {
+        "type": "universe",
+        "id": "invincible-universe"
+    },
+    "spawn-universe": {
+        "type": "universe",
+        "id": "spawn-universe"
+    },
+    "tex-universe": {
+        "type": "universe",
+        "id": "tex-universe"
+    },
+    "superhero": {
+        "type": "genre",
+        "id": "superhero"
+    },
+    "western": {
+        "type": "genre",
+        "id": "western"
+    },
+    "homem-aranha": {
+        "type": "character",
+        "id": "spider-man"
+    },
+    "homem aranha": {
+        "type": "character",
+        "id": "spider-man"
+    },
+    "capitao america": {
+        "type": "character",
+        "id": "captain-america"
+    },
+    "capitão américa": {
+        "type": "character",
+        "id": "captain-america"
+    },
+    "demolidor": {
+        "type": "character",
+        "id": "daredevil"
+    },
+    "gaviao arqueiro": {
+        "type": "character",
+        "id": "hawkeye"
+    },
+    "gavião arqueiro": {
+        "type": "character",
+        "id": "hawkeye"
+    },
+    "justiceiro": {
+        "type": "character",
+        "id": "punisher"
+    },
+    "punho de ferro": {
+        "type": "character",
+        "id": "iron-fist"
+    },
+    "homem de ferro": {
+        "type": "character",
+        "id": "iron-man"
+    },
+    "arqueiro verde": {
+        "type": "character",
+        "id": "green-arrow"
+    },
+    "invencivel": {
+        "type": "character",
+        "id": "invincible"
+    },
+    "invencível": {
+        "type": "character",
+        "id": "invincible"
+    },
+    "tex willer": {
+        "type": "character",
+        "id": "tex"
     },
     "homem morcego": {
         "type": "character",
@@ -211,49 +183,13 @@
         "type": "character",
         "id": "batman"
     },
-    "the dark knight": {
-        "type": "character",
-        "id": "batman"
-    },
-    "bruce wayne": {
-        "type": "character",
-        "id": "batman"
-    },
-    "el hombre murcielago": {
-        "type": "character",
-        "id": "batman"
-    },
-    "el hombre murciélago": {
-        "type": "character",
-        "id": "batman"
-    },
     "lanterna verde": {
         "type": "character",
         "id": "green-lantern"
     },
-    "green lantern": {
-        "type": "character",
-        "id": "green-lantern"
-    },
-    "hal jordan": {
-        "type": "character",
-        "id": "green-lantern"
-    },
-    "linterna verde": {
-        "type": "character",
-        "id": "green-lantern"
-    },
-    "marvel": {
-        "type": "publisher",
-        "id": "marvel"
-    },
     "marvel comics": {
         "type": "publisher",
         "id": "marvel"
-    },
-    "dc": {
-        "type": "publisher",
-        "id": "dc"
     },
     "dc comics": {
         "type": "publisher",
@@ -267,19 +203,11 @@
         "type": "publisher",
         "id": "image-comics"
     },
-    "bonelli": {
-        "type": "publisher",
-        "id": "bonelli"
-    },
     "sergio bonelli editore": {
         "type": "publisher",
         "id": "bonelli"
     },
     "editora bonelli": {
-        "type": "publisher",
-        "id": "bonelli"
-    },
-    "editorial bonelli": {
         "type": "publisher",
         "id": "bonelli"
     },
@@ -295,37 +223,9 @@
         "type": "team",
         "id": "fantastic-four"
     },
-    "x-men": {
-        "type": "team",
-        "id": "x-men"
-    },
     "x men": {
         "type": "team",
         "id": "x-men"
-    },
-    "avengers": {
-        "type": "team",
-        "id": "avengers"
-    },
-    "fantastic four": {
-        "type": "team",
-        "id": "fantastic-four"
-    },
-    "vengadores": {
-        "type": "team",
-        "id": "avengers"
-    },
-    "cuatro fantasticos": {
-        "type": "team",
-        "id": "fantastic-four"
-    },
-    "cuatro fantásticos": {
-        "type": "team",
-        "id": "fantastic-four"
-    },
-    "los 4 fantasticos": {
-        "type": "team",
-        "id": "fantastic-four"
     },
     "universo marvel": {
         "type": "universe",
@@ -359,30 +259,6 @@
         "type": "universe",
         "id": "tex-universe"
     },
-    "marvel universe": {
-        "type": "universe",
-        "id": "marvel-universe"
-    },
-    "dc universe": {
-        "type": "universe",
-        "id": "dc-universe"
-    },
-    "invincible universe": {
-        "type": "universe",
-        "id": "invincible-universe"
-    },
-    "spawn universe": {
-        "type": "universe",
-        "id": "spawn-universe"
-    },
-    "tex universe": {
-        "type": "universe",
-        "id": "tex-universe"
-    },
-    "universo invencible": {
-        "type": "universe",
-        "id": "invincible-universe"
-    },
     "super-heroi": {
         "type": "genre",
         "id": "superhero"
@@ -407,17 +283,193 @@
         "type": "genre",
         "id": "western"
     },
-    "superhero": {
-        "type": "genre",
-        "id": "superhero"
+    "spiderman": {
+        "type": "character",
+        "id": "spider-man"
+    },
+    "spider man": {
+        "type": "character",
+        "id": "spider-man"
+    },
+    "asm": {
+        "type": "character",
+        "id": "spider-man"
+    },
+    "captain america": {
+        "type": "character",
+        "id": "captain-america"
+    },
+    "cap": {
+        "type": "character",
+        "id": "captain-america"
+    },
+    "dd": {
+        "type": "character",
+        "id": "daredevil"
+    },
+    "the hulk": {
+        "type": "character",
+        "id": "hulk"
+    },
+    "the punisher": {
+        "type": "character",
+        "id": "punisher"
+    },
+    "iron fist": {
+        "type": "character",
+        "id": "iron-fist"
+    },
+    "logan": {
+        "type": "character",
+        "id": "wolverine"
+    },
+    "iron man": {
+        "type": "character",
+        "id": "iron-man"
+    },
+    "green arrow": {
+        "type": "character",
+        "id": "green-arrow"
+    },
+    "the dark knight": {
+        "type": "character",
+        "id": "batman"
+    },
+    "bruce wayne": {
+        "type": "character",
+        "id": "batman"
+    },
+    "green lantern": {
+        "type": "character",
+        "id": "green-lantern"
+    },
+    "hal jordan": {
+        "type": "character",
+        "id": "green-lantern"
+    },
+    "fantastic four": {
+        "type": "team",
+        "id": "fantastic-four"
+    },
+    "marvel universe": {
+        "type": "universe",
+        "id": "marvel-universe"
+    },
+    "dc universe": {
+        "type": "universe",
+        "id": "dc-universe"
+    },
+    "invincible universe": {
+        "type": "universe",
+        "id": "invincible-universe"
+    },
+    "spawn universe": {
+        "type": "universe",
+        "id": "spawn-universe"
+    },
+    "tex universe": {
+        "type": "universe",
+        "id": "tex-universe"
     },
     "super hero": {
         "type": "genre",
         "id": "superhero"
     },
-    "western": {
-        "type": "genre",
-        "id": "western"
+    "hombre araña": {
+        "type": "character",
+        "id": "spider-man"
+    },
+    "hombre arana": {
+        "type": "character",
+        "id": "spider-man"
+    },
+    "el hombre araña": {
+        "type": "character",
+        "id": "spider-man"
+    },
+    "capitan america": {
+        "type": "character",
+        "id": "captain-america"
+    },
+    "capitán américa": {
+        "type": "character",
+        "id": "captain-america"
+    },
+    "ojo de halcon": {
+        "type": "character",
+        "id": "hawkeye"
+    },
+    "ojo de halcón": {
+        "type": "character",
+        "id": "hawkeye"
+    },
+    "castigador": {
+        "type": "character",
+        "id": "punisher"
+    },
+    "puno de hierro": {
+        "type": "character",
+        "id": "iron-fist"
+    },
+    "puño de hierro": {
+        "type": "character",
+        "id": "iron-fist"
+    },
+    "lobezno": {
+        "type": "character",
+        "id": "wolverine"
+    },
+    "hombre de hierro": {
+        "type": "character",
+        "id": "iron-man"
+    },
+    "flecha verde": {
+        "type": "character",
+        "id": "green-arrow"
+    },
+    "arquero verde": {
+        "type": "character",
+        "id": "green-arrow"
+    },
+    "invencible": {
+        "type": "character",
+        "id": "invincible"
+    },
+    "el hombre murcielago": {
+        "type": "character",
+        "id": "batman"
+    },
+    "el hombre murciélago": {
+        "type": "character",
+        "id": "batman"
+    },
+    "linterna verde": {
+        "type": "character",
+        "id": "green-lantern"
+    },
+    "editorial bonelli": {
+        "type": "publisher",
+        "id": "bonelli"
+    },
+    "vengadores": {
+        "type": "team",
+        "id": "avengers"
+    },
+    "cuatro fantasticos": {
+        "type": "team",
+        "id": "fantastic-four"
+    },
+    "cuatro fantásticos": {
+        "type": "team",
+        "id": "fantastic-four"
+    },
+    "los 4 fantasticos": {
+        "type": "team",
+        "id": "fantastic-four"
+    },
+    "universo invencible": {
+        "type": "universe",
+        "id": "invincible-universe"
     },
     "superheroe": {
         "type": "genre",
