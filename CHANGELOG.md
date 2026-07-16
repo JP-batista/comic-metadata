@@ -18,6 +18,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), e o
 - Imagens de editoras: `dc` (logo + banner), `image-comics` (logo + banner), `bonelli` (logo + banner) — completa todas as editoras.
 - Banners de `dc-universe`, `invincible-universe`, `spawn-universe`, `tex-universe` — completa todos os universos.
 - `x-men`: banner + logo — completa todos os times.
+- 2 novos personagens DC: `batman` (Detective Comics #27, 1939, Bob Kane e Bill Finger) e `green-lantern` (Showcase #22, 1959, John Broome e Gil Kane). Dados estruturais completos, imagens (`avatar`, `banner`), traduções pt-BR/en-US/es-ES, aliases e `search_index.json`.
 
 ### Changed
 

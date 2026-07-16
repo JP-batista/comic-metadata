@@ -82,5 +82,17 @@
         "description": "Tex Willer é um ex-fora-da-lei que se torna um ranger e defensor da justiça no Velho Oeste americano, além de líder honorário de uma tribo navajo. Criado por Gian Luigi Bonelli e Aurelio Galleppini, estreou em 1948 na Itália.",
         "firstAppearance": "Tex #1",
         "occupation": "Ranger"
+    },
+    "batman": {
+        "name": "Batman",
+        "description": "Bruce Wayne é um bilionário que testemunhou o assassinato dos pais quando criança e jurou combater o crime em Gotham City sem poderes sobre-humanos, apenas intelecto, treinamento e tecnologia. Criado por Bob Kane e Bill Finger, estreou em 1939.",
+        "firstAppearance": "Detective Comics #27",
+        "occupation": "Empresário"
+    },
+    "green-lantern": {
+        "name": "Lanterna Verde",
+        "description": "Hal Jordan é um piloto de testes que recebe um anel de poder de um alienígena moribundo, tornando-se membro do Corpo dos Lanternas Verdes, uma força policial intergaláctica. Criado por John Broome e Gil Kane, estreou em 1959.",
+        "firstAppearance": "Showcase #22",
+        "occupation": "Piloto de testes"
     }
 }

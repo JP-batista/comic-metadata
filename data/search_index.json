@@ -48,5 +48,16 @@
     "invincible": "invincible",
     "spawn": "spawn",
     "tex": "tex",
-    "tex willer": "tex"
+    "tex willer": "tex",
+    "batman": "batman",
+    "homem morcego": "batman",
+    "homem-morcego": "batman",
+    "the dark knight": "batman",
+    "bruce wayne": "batman",
+    "el hombre murcielago": "batman",
+    "el hombre murciélago": "batman",
+    "lanterna verde": "green-lantern",
+    "green lantern": "green-lantern",
+    "hal jordan": "green-lantern",
+    "linterna verde": "green-lantern"
 }

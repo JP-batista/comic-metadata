@@ -82,5 +82,17 @@
         "description": "Tex Willer is a former outlaw who becomes a Texas Ranger and defender of justice in the American Old West, as well as an honorary Navajo chief. Created by Gian Luigi Bonelli and Aurelio Galleppini, he debuted in 1948 in Italy.",
         "firstAppearance": "Tex #1",
         "occupation": "Ranger"
+    },
+    "batman": {
+        "name": "Batman",
+        "description": "Bruce Wayne is a billionaire who witnessed his parents' murder as a child and vowed to fight crime in Gotham City using no superpowers, only intellect, training, and technology. Created by Bob Kane and Bill Finger, he debuted in 1939.",
+        "firstAppearance": "Detective Comics #27",
+        "occupation": "Businessman"
+    },
+    "green-lantern": {
+        "name": "Green Lantern",
+        "description": "Hal Jordan is a test pilot who receives a power ring from a dying alien, becoming a member of the Green Lantern Corps, an intergalactic police force. Created by John Broome and Gil Kane, he debuted in 1959.",
+        "firstAppearance": "Showcase #22",
+        "occupation": "Test pilot"
     }
 }

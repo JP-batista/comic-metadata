@@ -319,5 +319,53 @@
             "avatar": "images/characters/tex/avatar.webp",
             "banner": "images/characters/tex/banner.webp"
         }
+    },
+    "batman": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1939,
+        "firstAppearance": "detective-comics-27",
+        "creators": [
+            "bob-kane",
+            "bill-finger"
+        ],
+        "teams": [
+            "justice-league"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "joker",
+            "catwoman",
+            "robin"
+        ],
+        "images": {
+            "avatar": "images/characters/batman/avatar.webp",
+            "banner": "images/characters/batman/banner.webp"
+        }
+    },
+    "green-lantern": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1959,
+        "firstAppearance": "showcase-22",
+        "creators": [
+            "john-broome",
+            "gil-kane"
+        ],
+        "teams": [
+            "justice-league"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "sinestro"
+        ],
+        "images": {
+            "avatar": "images/characters/green-lantern/avatar.webp",
+            "banner": "images/characters/green-lantern/banner.webp"
+        }
     }
 }

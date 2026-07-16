@@ -46,6 +46,14 @@
         "tex": [
             "tex",
             "tex willer"
+        ],
+        "batman": [
+            "batman",
+            "homem morcego",
+            "homem-morcego"
+        ],
+        "green-lantern": [
+            "lanterna verde"
         ]
     },
     "en-US": {
@@ -99,6 +107,15 @@
         "tex": [
             "tex",
             "tex willer"
+        ],
+        "batman": [
+            "batman",
+            "the dark knight",
+            "bruce wayne"
+        ],
+        "green-lantern": [
+            "green lantern",
+            "hal jordan"
         ]
     },
     "es-ES": {
@@ -154,6 +171,14 @@
         "tex": [
             "tex",
             "tex willer"
+        ],
+        "batman": [
+            "batman",
+            "el hombre murcielago",
+            "el hombre murciélago"
+        ],
+        "green-lantern": [
+            "linterna verde"
         ]
     },
     "fr-FR": {},
