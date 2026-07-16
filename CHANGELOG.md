@@ -14,6 +14,10 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), e o
 - Novos universos: `dc-universe`, `invincible-universe`, `spawn-universe`, `tex-universe` — cada propriedade da Image Comics ficou com seu próprio universo (Image não é uma continuidade compartilhada como Marvel/DC).
 - Novo gênero: `western` (para `tex`), com tradução.
 - Imagens (`avatar`, `banner`) de `captain-america` e `daredevil`, em arte de quadrinho.
+- Imagens (`avatar`, `banner`) de `green-arrow`, `hawkeye`, `hulk`, `invincible`, `iron-fist`, `iron-man`, `punisher`, `spawn`, `tex`, `thor` e `wolverine`, em arte de quadrinho — completa todos os 14 personagens.
+- Imagens de editoras: `dc` (logo + banner), `image-comics` (logo + banner), `bonelli` (logo + banner) — completa todas as editoras.
+- Banners de `dc-universe`, `invincible-universe`, `spawn-universe`, `tex-universe` — completa todos os universos.
+- `x-men`: banner + logo — completa todos os times.
 
 ### Changed
 

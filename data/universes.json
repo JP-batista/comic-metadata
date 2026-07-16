@@ -11,21 +11,33 @@
     "dc-universe": {
         "publishers": [
             "dc"
-        ]
+        ],
+        "images": {
+            "banner": "images/universes/dc-universe/banner.webp"
+        }
     },
     "invincible-universe": {
         "publishers": [
             "image-comics"
-        ]
+        ],
+        "images": {
+            "banner": "images/universes/invincible-universe/banner.webp"
+        }
     },
     "spawn-universe": {
         "publishers": [
             "image-comics"
-        ]
+        ],
+        "images": {
+            "banner": "images/universes/spawn-universe/banner.webp"
+        }
     },
     "tex-universe": {
         "publishers": [
             "bonelli"
-        ]
+        ],
+        "images": {
+            "banner": "images/universes/tex-universe/banner.webp"
+        }
     }
 }

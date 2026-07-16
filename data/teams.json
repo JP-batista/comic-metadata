@@ -35,6 +35,10 @@
             "jean-grey",
             "storm",
             "professor-x"
-        ]
+        ],
+        "images": {
+            "banner": "images/teams/x-men/banner.webp",
+            "logo": "images/teams/x-men/logo.webp"
+        }
     }
 }

@@ -12,16 +12,28 @@
     "dc": {
         "country": "USA",
         "created": 1934,
-        "website": "https://www.dc.com"
+        "website": "https://www.dc.com",
+        "images": {
+            "logo": "images/publishers/dc/logo.webp",
+            "banner": "images/publishers/dc/banner.webp"
+        }
     },
     "image-comics": {
         "country": "USA",
         "created": 1992,
-        "website": "https://imagecomics.com"
+        "website": "https://imagecomics.com",
+        "images": {
+            "logo": "images/publishers/image-comics/logo.webp",
+            "banner": "images/publishers/image-comics/banner.webp"
+        }
     },
     "bonelli": {
         "country": "Italy",
         "created": 1940,
-        "website": "https://www.sergiobonelli.it"
+        "website": "https://www.sergiobonelli.it",
+        "images": {
+            "logo": "images/publishers/bonelli/logo.webp",
+            "banner": "images/publishers/bonelli/banner.webp"
+        }
     }
 }

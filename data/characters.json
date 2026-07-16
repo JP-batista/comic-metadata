@@ -92,7 +92,11 @@
         ],
         "relatedCharacters": [
             "black-widow"
-        ]
+        ],
+        "images": {
+            "avatar": "images/characters/hawkeye/avatar.webp",
+            "banner": "images/characters/hawkeye/banner.webp"
+        }
     },
     "hulk": {
         "publisher": "marvel",
@@ -111,7 +115,11 @@
         ],
         "relatedCharacters": [
             "she-hulk"
-        ]
+        ],
+        "images": {
+            "avatar": "images/characters/hulk/avatar.webp",
+            "banner": "images/characters/hulk/banner.webp"
+        }
     },
     "punisher": {
         "publisher": "marvel",
@@ -129,7 +137,11 @@
         ],
         "relatedCharacters": [
             "spider-man"
-        ]
+        ],
+        "images": {
+            "avatar": "images/characters/punisher/avatar.webp",
+            "banner": "images/characters/punisher/banner.webp"
+        }
     },
     "iron-fist": {
         "publisher": "marvel",
@@ -146,7 +158,11 @@
         ],
         "relatedCharacters": [
             "luke-cage"
-        ]
+        ],
+        "images": {
+            "avatar": "images/characters/iron-fist/avatar.webp",
+            "banner": "images/characters/iron-fist/banner.webp"
+        }
     },
     "thor": {
         "publisher": "marvel",
@@ -166,7 +182,11 @@
         ],
         "relatedCharacters": [
             "loki"
-        ]
+        ],
+        "images": {
+            "avatar": "images/characters/thor/avatar.webp",
+            "banner": "images/characters/thor/banner.webp"
+        }
     },
     "wolverine": {
         "publisher": "marvel",
@@ -187,7 +207,11 @@
         "relatedCharacters": [
             "cyclops",
             "professor-x"
-        ]
+        ],
+        "images": {
+            "avatar": "images/characters/wolverine/avatar.webp",
+            "banner": "images/characters/wolverine/banner.webp"
+        }
     },
     "iron-man": {
         "publisher": "marvel",
@@ -209,7 +233,11 @@
         "relatedCharacters": [
             "captain-america",
             "war-machine"
-        ]
+        ],
+        "images": {
+            "avatar": "images/characters/iron-man/avatar.webp",
+            "banner": "images/characters/iron-man/banner.webp"
+        }
     },
     "green-arrow": {
         "publisher": "dc",
@@ -228,7 +256,11 @@
         ],
         "relatedCharacters": [
             "black-canary"
-        ]
+        ],
+        "images": {
+            "avatar": "images/characters/green-arrow/avatar.webp",
+            "banner": "images/characters/green-arrow/banner.webp"
+        }
     },
     "invincible": {
         "publisher": "image-comics",
@@ -245,7 +277,11 @@
         ],
         "relatedCharacters": [
             "omni-man"
-        ]
+        ],
+        "images": {
+            "avatar": "images/characters/invincible/avatar.webp",
+            "banner": "images/characters/invincible/banner.webp"
+        }
     },
     "spawn": {
         "publisher": "image-comics",
@@ -259,7 +295,11 @@
         "genres": [
             "superhero"
         ],
-        "relatedCharacters": []
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/spawn/avatar.webp",
+            "banner": "images/characters/spawn/banner.webp"
+        }
     },
     "tex": {
         "publisher": "bonelli",
@@ -274,6 +314,10 @@
         "genres": [
             "western"
         ],
-        "relatedCharacters": []
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/tex/avatar.webp",
+            "banner": "images/characters/tex/banner.webp"
+        }
     }
 }
