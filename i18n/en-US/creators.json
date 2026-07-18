@@ -6,5 +6,93 @@
     "steve-ditko": {
         "name": "Steve Ditko",
         "description": "Artist and co-creator of Spider-Man and Doctor Strange alongside Stan Lee, known for his distinctive, surreal visual style."
+    },
+    "aurelio-galleppini": {
+        "name": "Aurelio Galleppini",
+        "description": "Italian penciler known as Galep, he was the first artist of Tex Willer, drawing the character for more than 40 years."
+    },
+    "bill-everett": {
+        "name": "Bill Everett",
+        "description": "Golden Age comic legend who created Namor and co-created Daredevil. He drew for Atlas, Timely, and Marvel Comics."
+    },
+    "bill-finger": {
+        "name": "Bill Finger",
+        "description": "Prolific Golden Age writer, co-creator of Batman and Robin, and of Green Lantern. His name was only legally attached to Batman in 2016."
+    },
+    "bob-kane": {
+        "name": "Bob Kane",
+        "description": "Cartoonist considered the co-creator of Batman alongside Bill Finger. Inducted into both the Jack Kirby Hall of Fame and the Will Eisner Comic Book Hall of Fame."
+    },
+    "cory-walker": {
+        "name": "Cory Walker",
+        "description": "Comic book penciller, co-creator of Invincible alongside Robert Kirkman."
+    },
+    "don-heck": {
+        "name": "Don Heck",
+        "description": "Legendary comic book artist who co-created Iron Man, Hawkeye, Black Widow, and Wonder Man."
+    },
+    "george-papp": {
+        "name": "George Papp",
+        "description": "Golden Age artist who worked at DC in its early days as National Periodicals. Creator of Green Arrow."
+    },
+    "gerry-conway": {
+        "name": "Gerry Conway",
+        "description": "American writer known for co-creating the Punisher (with artist Ross Andru) and for scripting the death of Gwen Stacy in The Amazing Spider-Man. Also co-created DC's Firestorm."
+    },
+    "gian-luigi-bonelli": {
+        "name": "Gian Luigi Bonelli",
+        "description": "Italian comic writer, co-creator of Tex Willer and founder of the publisher Sergio Bonelli Editore."
+    },
+    "gil-kane": {
+        "name": "Gil Kane",
+        "description": "Comic book legend who worked through the Gold, Silver, Bronze, Copper, and Modern ages. Creator or co-creator of Hal Jordan, Iron Fist, Atom, Guy Gardner, and Sinestro, among others."
+    },
+    "herb-trimpe": {
+        "name": "Herb Trimpe",
+        "description": "Legendary Silver Age artist best known for his 1970s work on The Incredible Hulk. Co-creator of Wolverine."
+    },
+    "jack-kirby": {
+        "name": "Jack Kirby",
+        "description": "One of comics' most prolific legends, known as \"The King.\" Created and co-created a multitude of Marvel and DC's most popular characters."
+    },
+    "joe-simon": {
+        "name": "Joe Simon",
+        "description": "One of the top creator/writers of his time, who often teamed up with Jack Kirby to form the first creative team recognized as popular with readers."
+    },
+    "john-broome": {
+        "name": "John Broome",
+        "description": "Writer whose career spanned the 1940s to the 1970s, establishing superheroes such as the Flash and Green Lantern for DC."
+    },
+    "john-romita-sr": {
+        "name": "John Romita Sr.",
+        "description": "One of the legendary \"Marvel Bullpen\" artists of the Silver Age. Co-creator of Mary Jane Watson, the Punisher, and Wolverine."
+    },
+    "larry-lieber": {
+        "name": "Larry Lieber",
+        "description": "Brother of Stan Lee and legendary comic book writer and artist, co-creator of Iron Man, Thor, Loki, and Odin, among others."
+    },
+    "len-wein": {
+        "name": "Len Wein",
+        "description": "Writer and editor who created Swamp Thing and co-created Wolverine. Served as Editor-in-Chief of DC Comics during Crisis on Infinite Earths and Watchmen."
+    },
+    "mort-weisinger": {
+        "name": "Mort Weisinger",
+        "description": "Longtime editor of Superman during the Silver Age, co-creator of Aquaman, Speedy, and Green Arrow."
+    },
+    "robert-kirkman": {
+        "name": "Robert Kirkman",
+        "description": "Comic book writer best known for the series Invincible and The Walking Dead, the latter adapted into a successful TV series."
+    },
+    "ross-andru": {
+        "name": "Ross Andru",
+        "description": "Understated creator who worked for DC and Marvel. Co-creator of the Metal Men and the Punisher. Worked as editor, penciler, and inker."
+    },
+    "roy-thomas": {
+        "name": "Roy Thomas",
+        "description": "Marvel Comics' second Editor-in-Chief and a legendary writer. His creations include Wolverine, Carol Danvers, Ghost Rider, and Iron Fist."
+    },
+    "todd-mcfarlane": {
+        "name": "Todd McFarlane",
+        "description": "Rose to fame at Marvel before co-founding Image Comics, where he created Spawn. Also founded McFarlane Toys, a highly successful collectibles company."
     }
 }

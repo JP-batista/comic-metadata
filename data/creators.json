@@ -14,5 +14,175 @@
             "avatar": "images/creators/steve-ditko/avatar.webp",
             "banner": "images/creators/steve-ditko/banner.webp"
         }
+    },
+    "aurelio-galleppini": {
+        "birth": "1917-08-28",
+        "death": "1994-03-10",
+        "images": {
+            "avatar": "images/creators/aurelio-galleppini/avatar.webp",
+            "banner": "images/creators/aurelio-galleppini/banner.webp"
+        }
+    },
+    "bill-everett": {
+        "birth": "1917-05-18",
+        "death": "1973-02-27",
+        "images": {
+            "avatar": "images/creators/bill-everett/avatar.webp",
+            "banner": "images/creators/bill-everett/banner.webp"
+        }
+    },
+    "bill-finger": {
+        "birth": "1914-02-08",
+        "death": "1974-01-24",
+        "images": {
+            "avatar": "images/creators/bill-finger/avatar.webp",
+            "banner": "images/creators/bill-finger/banner.webp"
+        }
+    },
+    "bob-kane": {
+        "birth": "1915-10-24",
+        "death": "1998-11-03",
+        "images": {
+            "avatar": "images/creators/bob-kane/avatar.webp",
+            "banner": "images/creators/bob-kane/banner.webp"
+        }
+    },
+    "cory-walker": {
+        "images": {
+            "avatar": "images/creators/cory-walker/avatar.webp",
+            "banner": "images/creators/cory-walker/banner.webp"
+        }
+    },
+    "don-heck": {
+        "birth": "1929-01-02",
+        "death": "1995-02-23",
+        "images": {
+            "avatar": "images/creators/don-heck/avatar.webp",
+            "banner": "images/creators/don-heck/banner.webp"
+        }
+    },
+    "george-papp": {
+        "birth": "1916-01-20",
+        "death": "1989-08-08",
+        "images": {
+            "avatar": "images/creators/george-papp/avatar.webp",
+            "banner": "images/creators/george-papp/banner.webp"
+        }
+    },
+    "gerry-conway": {
+        "birth": "1952-09-10",
+        "death": "2026-04-27",
+        "images": {
+            "avatar": "images/creators/gerry-conway/avatar.webp",
+            "banner": "images/creators/gerry-conway/banner.webp"
+        }
+    },
+    "gian-luigi-bonelli": {
+        "birth": "1908-12-22",
+        "death": "2001-01-12",
+        "images": {
+            "avatar": "images/creators/gian-luigi-bonelli/avatar.webp",
+            "banner": "images/creators/gian-luigi-bonelli/banner.webp"
+        }
+    },
+    "gil-kane": {
+        "birth": "1926-04-06",
+        "death": "2000-01-31",
+        "images": {
+            "avatar": "images/creators/gil-kane/avatar.webp",
+            "banner": "images/creators/gil-kane/banner.webp"
+        }
+    },
+    "herb-trimpe": {
+        "birth": "1939-05-26",
+        "death": "2015-04-13",
+        "images": {
+            "avatar": "images/creators/herb-trimpe/avatar.webp",
+            "banner": "images/creators/herb-trimpe/banner.webp"
+        }
+    },
+    "jack-kirby": {
+        "birth": "1917-08-28",
+        "death": "1994-02-06",
+        "images": {
+            "avatar": "images/creators/jack-kirby/avatar.webp",
+            "banner": "images/creators/jack-kirby/banner.webp"
+        }
+    },
+    "joe-simon": {
+        "birth": "1913-10-11",
+        "death": "2011-12-13",
+        "images": {
+            "avatar": "images/creators/joe-simon/avatar.webp",
+            "banner": "images/creators/joe-simon/banner.webp"
+        }
+    },
+    "john-broome": {
+        "birth": "1913-05-04",
+        "death": "1999-03-14",
+        "images": {
+            "avatar": "images/creators/john-broome/avatar.webp",
+            "banner": "images/creators/john-broome/banner.webp"
+        }
+    },
+    "john-romita-sr": {
+        "birth": "1930-01-24",
+        "death": "2023-06-12",
+        "images": {
+            "avatar": "images/creators/john-romita-sr/avatar.webp",
+            "banner": "images/creators/john-romita-sr/banner.webp"
+        }
+    },
+    "larry-lieber": {
+        "birth": "1931-10-26",
+        "images": {
+            "avatar": "images/creators/larry-lieber/avatar.webp",
+            "banner": "images/creators/larry-lieber/banner.webp"
+        }
+    },
+    "len-wein": {
+        "birth": "1948-06-12",
+        "death": "2017-09-10",
+        "images": {
+            "avatar": "images/creators/len-wein/avatar.webp",
+            "banner": "images/creators/len-wein/banner.webp"
+        }
+    },
+    "mort-weisinger": {
+        "birth": "1915-04-25",
+        "death": "1978-05-07",
+        "images": {
+            "avatar": "images/creators/mort-weisinger/avatar.webp",
+            "banner": "images/creators/mort-weisinger/banner.webp"
+        }
+    },
+    "robert-kirkman": {
+        "birth": "1978-11-30",
+        "images": {
+            "avatar": "images/creators/robert-kirkman/avatar.webp",
+            "banner": "images/creators/robert-kirkman/banner.webp"
+        }
+    },
+    "ross-andru": {
+        "birth": "1927-06-15",
+        "death": "1993-11-09",
+        "images": {
+            "avatar": "images/creators/ross-andru/avatar.webp",
+            "banner": "images/creators/ross-andru/banner.webp"
+        }
+    },
+    "roy-thomas": {
+        "birth": "1940-11-22",
+        "images": {
+            "avatar": "images/creators/roy-thomas/avatar.webp",
+            "banner": "images/creators/roy-thomas/banner.webp"
+        }
+    },
+    "todd-mcfarlane": {
+        "birth": "1961-03-16",
+        "images": {
+            "avatar": "images/creators/todd-mcfarlane/avatar.webp",
+            "banner": "images/creators/todd-mcfarlane/banner.webp"
+        }
     }
 }

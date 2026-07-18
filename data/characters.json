@@ -367,5 +367,856 @@
             "avatar": "images/characters/green-lantern/avatar.webp",
             "banner": "images/characters/green-lantern/banner.webp"
         }
+    },
+    "superman": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1938,
+        "firstAppearance": "action-comics-1",
+        "creators": [
+            "jerry-siegel",
+            "joe-shuster"
+        ],
+        "teams": [
+            "justice-league"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "lex-luthor",
+            "supergirl"
+        ],
+        "images": {
+            "avatar": "images/characters/superman/avatar.webp",
+            "banner": "images/characters/superman/banner.webp"
+        }
+    },
+    "wonder-woman": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1941,
+        "firstAppearance": "all-star-comics-8",
+        "creators": [
+            "william-moulton-marston",
+            "harry-g-peter"
+        ],
+        "teams": [
+            "justice-league"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/wonder-woman/avatar.webp",
+            "banner": "images/characters/wonder-woman/banner.webp"
+        }
+    },
+    "flash": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1956,
+        "firstAppearance": "showcase-4",
+        "creators": [
+            "robert-kanigher",
+            "carmine-infantino"
+        ],
+        "teams": [
+            "justice-league"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/flash/avatar.webp",
+            "banner": "images/characters/flash/banner.webp"
+        }
+    },
+    "aquaman": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1941,
+        "firstAppearance": "more-fun-comics-73",
+        "creators": [
+            "mort-weisinger",
+            "paul-norris"
+        ],
+        "teams": [
+            "justice-league"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/aquaman/avatar.webp",
+            "banner": "images/characters/aquaman/banner.webp"
+        }
+    },
+    "cyborg": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1980,
+        "firstAppearance": "dc-comics-presents-26",
+        "creators": [
+            "marv-wolfman",
+            "george-perez"
+        ],
+        "teams": [
+            "justice-league"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/cyborg/avatar.webp",
+            "banner": "images/characters/cyborg/banner.webp"
+        }
+    },
+    "martian-manhunter": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1955,
+        "firstAppearance": "detective-comics-225",
+        "creators": [
+            "joseph-samachson",
+            "joe-certa"
+        ],
+        "teams": [
+            "justice-league"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/martian-manhunter/avatar.webp",
+            "banner": "images/characters/martian-manhunter/banner.webp"
+        }
+    },
+    "joker": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1940,
+        "firstAppearance": "batman-1",
+        "creators": [
+            "bill-finger",
+            "bob-kane",
+            "jerry-robinson"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "batman",
+            "harley-quinn"
+        ],
+        "images": {
+            "avatar": "images/characters/joker/avatar.webp",
+            "banner": "images/characters/joker/banner.webp"
+        }
+    },
+    "catwoman": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1940,
+        "firstAppearance": "batman-1",
+        "creators": [
+            "bill-finger",
+            "bob-kane"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "batman"
+        ],
+        "images": {
+            "avatar": "images/characters/catwoman/avatar.webp",
+            "banner": "images/characters/catwoman/banner.webp"
+        }
+    },
+    "robin": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1940,
+        "firstAppearance": "detective-comics-38",
+        "creators": [
+            "bill-finger",
+            "bob-kane",
+            "jerry-robinson"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "batman",
+            "nightwing"
+        ],
+        "images": {
+            "avatar": "images/characters/robin/avatar.webp",
+            "banner": "images/characters/robin/banner.webp"
+        }
+    },
+    "sinestro": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1961,
+        "firstAppearance": "green-lantern-7",
+        "creators": [
+            "john-broome",
+            "gil-kane"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "green-lantern"
+        ],
+        "images": {
+            "avatar": "images/characters/sinestro/avatar.webp",
+            "banner": "images/characters/sinestro/banner.webp"
+        }
+    },
+    "black-canary": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1947,
+        "firstAppearance": "flash-comics-86",
+        "creators": [
+            "robert-kanigher",
+            "carmine-infantino"
+        ],
+        "teams": [
+            "justice-league"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "green-arrow"
+        ],
+        "images": {
+            "avatar": "images/characters/black-canary/avatar.webp",
+            "banner": "images/characters/black-canary/banner.webp"
+        }
+    },
+    "lex-luthor": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1940,
+        "firstAppearance": "action-comics-23",
+        "creators": [
+            "jerry-siegel",
+            "joe-shuster"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "superman"
+        ],
+        "images": {
+            "avatar": "images/characters/lex-luthor/avatar.webp",
+            "banner": "images/characters/lex-luthor/banner.webp"
+        }
+    },
+    "supergirl": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1959,
+        "firstAppearance": "action-comics-252",
+        "creators": [
+            "otto-binder",
+            "al-plastino"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "superman"
+        ],
+        "images": {
+            "avatar": "images/characters/supergirl/avatar.webp",
+            "banner": "images/characters/supergirl/banner.webp"
+        }
+    },
+    "shazam": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1940,
+        "firstAppearance": "whiz-comics-2",
+        "creators": [
+            "bill-parker",
+            "c-c-beck"
+        ],
+        "teams": [
+            "justice-league"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/shazam/avatar.webp",
+            "banner": "images/characters/shazam/banner.webp"
+        }
+    },
+    "nightwing": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1984,
+        "firstAppearance": "tales-of-the-teen-titans-44",
+        "creators": [
+            "marv-wolfman",
+            "george-perez"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "batman",
+            "robin"
+        ],
+        "images": {
+            "avatar": "images/characters/nightwing/avatar.webp",
+            "banner": "images/characters/nightwing/banner.webp"
+        }
+    },
+    "deathstroke": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1980,
+        "firstAppearance": "new-teen-titans-2",
+        "creators": [
+            "marv-wolfman",
+            "george-perez"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/deathstroke/avatar.webp",
+            "banner": "images/characters/deathstroke/banner.webp"
+        }
+    },
+    "zatanna": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1964,
+        "firstAppearance": "hawkman-4",
+        "creators": [
+            "gardner-fox",
+            "murphy-anderson"
+        ],
+        "teams": [
+            "justice-league"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/zatanna/avatar.webp",
+            "banner": "images/characters/zatanna/banner.webp"
+        }
+    },
+    "darkseid": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1970,
+        "firstAppearance": "supermans-pal-jimmy-olsen-134",
+        "creators": [
+            "jack-kirby"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/darkseid/avatar.webp",
+            "banner": "images/characters/darkseid/banner.webp"
+        }
+    },
+    "harley-quinn": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1992,
+        "firstAppearance": "the-batman-adventures-12",
+        "creators": [
+            "paul-dini",
+            "bruce-timm"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "joker"
+        ],
+        "images": {
+            "avatar": "images/characters/harley-quinn/avatar.webp",
+            "banner": "images/characters/harley-quinn/banner.webp"
+        }
+    },
+    "doctor-fate": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1940,
+        "firstAppearance": "more-fun-comics-55",
+        "creators": [
+            "gardner-fox",
+            "howard-sherman"
+        ],
+        "teams": [
+            "justice-league"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/doctor-fate/avatar.webp",
+            "banner": "images/characters/doctor-fate/banner.webp"
+        }
+    },
+    "black-widow": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1964,
+        "firstAppearance": "tales-of-suspense-52",
+        "creators": [
+            "stan-lee",
+            "don-rico",
+            "don-heck"
+        ],
+        "teams": [
+            "avengers"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/black-widow/avatar.webp",
+            "banner": "images/characters/black-widow/banner.webp"
+        }
+    },
+    "bucky-barnes": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1941,
+        "firstAppearance": "captain-america-comics-1",
+        "creators": [
+            "joe-simon",
+            "jack-kirby"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "captain-america"
+        ],
+        "images": {
+            "avatar": "images/characters/bucky-barnes/avatar.webp",
+            "banner": "images/characters/bucky-barnes/banner.webp"
+        }
+    },
+    "cyclops": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1963,
+        "firstAppearance": "x-men-1",
+        "creators": [
+            "stan-lee",
+            "jack-kirby"
+        ],
+        "teams": [
+            "x-men"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/cyclops/avatar.webp",
+            "banner": "images/characters/cyclops/banner.webp"
+        }
+    },
+    "elektra": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1981,
+        "firstAppearance": "daredevil-168",
+        "creators": [
+            "frank-miller"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "daredevil"
+        ],
+        "images": {
+            "avatar": "images/characters/elektra/avatar.webp",
+            "banner": "images/characters/elektra/banner.webp"
+        }
+    },
+    "green-goblin": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1964,
+        "firstAppearance": "amazing-spider-man-14",
+        "creators": [
+            "stan-lee",
+            "steve-ditko"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "spider-man"
+        ],
+        "images": {
+            "avatar": "images/characters/green-goblin/avatar.webp",
+            "banner": "images/characters/green-goblin/banner.webp"
+        }
+    },
+    "human-torch": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1961,
+        "firstAppearance": "fantastic-four-1",
+        "creators": [
+            "stan-lee",
+            "jack-kirby"
+        ],
+        "teams": [
+            "fantastic-four"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/human-torch/avatar.webp",
+            "banner": "images/characters/human-torch/banner.webp"
+        }
+    },
+    "invisible-woman": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1961,
+        "firstAppearance": "fantastic-four-1",
+        "creators": [
+            "stan-lee",
+            "jack-kirby"
+        ],
+        "teams": [
+            "fantastic-four"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/invisible-woman/avatar.webp",
+            "banner": "images/characters/invisible-woman/banner.webp"
+        }
+    },
+    "jean-grey": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1963,
+        "firstAppearance": "x-men-1",
+        "creators": [
+            "stan-lee",
+            "jack-kirby"
+        ],
+        "teams": [
+            "x-men"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/jean-grey/avatar.webp",
+            "banner": "images/characters/jean-grey/banner.webp"
+        }
+    },
+    "kingpin": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1967,
+        "firstAppearance": "amazing-spider-man-50",
+        "creators": [
+            "stan-lee",
+            "john-romita-sr"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "daredevil",
+            "spider-man"
+        ],
+        "images": {
+            "avatar": "images/characters/kingpin/avatar.webp",
+            "banner": "images/characters/kingpin/banner.webp"
+        }
+    },
+    "loki": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1962,
+        "firstAppearance": "journey-into-mystery-85",
+        "creators": [
+            "stan-lee",
+            "larry-lieber",
+            "jack-kirby"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "thor"
+        ],
+        "images": {
+            "avatar": "images/characters/loki/avatar.webp",
+            "banner": "images/characters/loki/banner.webp"
+        }
+    },
+    "luke-cage": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1972,
+        "firstAppearance": "hero-for-hire-1",
+        "creators": [
+            "archie-goodwin",
+            "george-tuska",
+            "john-romita-sr"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "iron-fist"
+        ],
+        "images": {
+            "avatar": "images/characters/luke-cage/avatar.webp",
+            "banner": "images/characters/luke-cage/banner.webp"
+        }
+    },
+    "mary-jane": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1965,
+        "firstAppearance": "amazing-spider-man-42",
+        "creators": [
+            "stan-lee",
+            "john-romita-sr"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "spider-man"
+        ],
+        "images": {
+            "avatar": "images/characters/mary-jane/avatar.webp",
+            "banner": "images/characters/mary-jane/banner.webp"
+        }
+    },
+    "mister-fantastic": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1961,
+        "firstAppearance": "fantastic-four-1",
+        "creators": [
+            "stan-lee",
+            "jack-kirby"
+        ],
+        "teams": [
+            "fantastic-four"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/mister-fantastic/avatar.webp",
+            "banner": "images/characters/mister-fantastic/banner.webp"
+        }
+    },
+    "miles-morales": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 2011,
+        "firstAppearance": "ultimate-fallout-4",
+        "creators": [
+            "brian-michael-bendis",
+            "sara-pichelli"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "spider-man"
+        ],
+        "images": {
+            "avatar": "images/characters/miles-morales/avatar.webp",
+            "banner": "images/characters/miles-morales/banner.webp"
+        }
+    },
+    "professor-x": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1963,
+        "firstAppearance": "x-men-1",
+        "creators": [
+            "stan-lee",
+            "jack-kirby"
+        ],
+        "teams": [
+            "x-men"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/professor-x/avatar.webp",
+            "banner": "images/characters/professor-x/banner.webp"
+        }
+    },
+    "she-hulk": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1980,
+        "firstAppearance": "savage-she-hulk-1",
+        "creators": [
+            "stan-lee",
+            "john-buscema"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "hulk"
+        ],
+        "images": {
+            "avatar": "images/characters/she-hulk/avatar.webp",
+            "banner": "images/characters/she-hulk/banner.webp"
+        }
+    },
+    "storm": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1975,
+        "firstAppearance": "giant-size-x-men-1",
+        "creators": [
+            "len-wein",
+            "dave-cockrum"
+        ],
+        "teams": [
+            "x-men"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/storm/avatar.webp",
+            "banner": "images/characters/storm/banner.webp"
+        }
+    },
+    "thing": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1961,
+        "firstAppearance": "fantastic-four-1",
+        "creators": [
+            "stan-lee",
+            "jack-kirby"
+        ],
+        "teams": [
+            "fantastic-four"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [],
+        "images": {
+            "avatar": "images/characters/thing/avatar.webp",
+            "banner": "images/characters/thing/banner.webp"
+        }
+    },
+    "venom": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1988,
+        "firstAppearance": "amazing-spider-man-300",
+        "creators": [
+            "david-michelinie",
+            "todd-mcfarlane"
+        ],
+        "teams": [],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "spider-man"
+        ],
+        "images": {
+            "avatar": "images/characters/venom/avatar.webp",
+            "banner": "images/characters/venom/banner.webp"
+        }
+    },
+    "war-machine": {
+        "publisher": "marvel",
+        "universe": "marvel-universe",
+        "created": 1979,
+        "firstAppearance": "iron-man-118",
+        "creators": [
+            "david-michelinie",
+            "john-romita-sr",
+            "bob-layton"
+        ],
+        "teams": [
+            "avengers"
+        ],
+        "genres": [
+            "superhero"
+        ],
+        "relatedCharacters": [
+            "iron-man"
+        ],
+        "images": {
+            "avatar": "images/characters/war-machine/avatar.webp",
+            "banner": "images/characters/war-machine/banner.webp"
+        }
     }
 }

@@ -13,5 +13,10 @@
         "name": "X-Men",
         "description": "Equipo de mutantes de Marvel Comics que lucha por un mundo donde humanos y mutantes puedan coexistir en paz, bajo el liderazgo del Profesor Xavier.",
         "firstAppearance": "The X-Men #1"
+    },
+    "justice-league": {
+        "name": "Liga de la Justicia",
+        "description": "El principal equipo de superhéroes de DC Comics, que reúne a sus miembros más poderosos para enfrentar amenazas que ningún héroe podría detener solo.",
+        "firstAppearance": "The Brave and the Bold #28"
     }
 }

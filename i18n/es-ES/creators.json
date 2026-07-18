@@ -6,5 +6,93 @@
     "steve-ditko": {
         "name": "Steve Ditko",
         "description": "Dibujante y co-creador de Spiderman y el Doctor Extraño junto a Stan Lee, conocido por su estilo visual distintivo y surrealista."
+    },
+    "aurelio-galleppini": {
+        "name": "Aurelio Galleppini",
+        "description": "Dibujante italiano conocido como Galep, fue el primer artista de Tex Willer, dibujando al personaje durante más de 40 años."
+    },
+    "bill-everett": {
+        "name": "Bill Everett",
+        "description": "Leyenda de la Edad de Oro del cómic que creó a Namor y co-creó a Daredevil. Trabajó para Atlas, Timely y Marvel Comics."
+    },
+    "bill-finger": {
+        "name": "Bill Finger",
+        "description": "Prolífico guionista de la Edad de Oro, co-creador de Batman, Robin y Linterna Verde. Su nombre solo fue legalmente asociado a Batman en 2016."
+    },
+    "bob-kane": {
+        "name": "Bob Kane",
+        "description": "Dibujante considerado co-creador de Batman junto a Bill Finger. Incluido tanto en el Jack Kirby Hall of Fame como en el Will Eisner Comic Book Hall of Fame."
+    },
+    "cory-walker": {
+        "name": "Cory Walker",
+        "description": "Dibujante de cómics, co-creador de Invencible junto a Robert Kirkman."
+    },
+    "don-heck": {
+        "name": "Don Heck",
+        "description": "Legendario artista que co-creó a Iron Man, Ojo de Halcón, Viuda Negra y Wonder Man."
+    },
+    "george-papp": {
+        "name": "George Papp",
+        "description": "Artista de la Edad de Oro que trabajó en DC en sus primeros días, cuando aún se llamaba National Periodicals. Creador de Flecha Verde."
+    },
+    "gerry-conway": {
+        "name": "Gerry Conway",
+        "description": "Guionista estadounidense conocido por co-crear a Punisher (con el artista Ross Andru) y por escribir la muerte de Gwen Stacy en The Amazing Spider-Man. También co-creó a Firestorm, de DC."
+    },
+    "gian-luigi-bonelli": {
+        "name": "Gian Luigi Bonelli",
+        "description": "Guionista italiano, co-creador de Tex Willer y fundador de la editorial Sergio Bonelli Editore."
+    },
+    "gil-kane": {
+        "name": "Gil Kane",
+        "description": "Leyenda del cómic que trabajó a través de varias eras del medio. Creador o co-creador de Hal Jordan, Puño de Hierro, Atom, Guy Gardner y Sinestro, entre otros."
+    },
+    "herb-trimpe": {
+        "name": "Herb Trimpe",
+        "description": "Legendario artista de la Edad de Plata, conocido por su trabajo en los años 70 en The Incredible Hulk. Co-creador de Wolverine."
+    },
+    "jack-kirby": {
+        "name": "Jack Kirby",
+        "description": "Uno de los mayores nombres de la historia del cómic, conocido como \"El Rey\". Creó y co-creó buena parte de los personajes más populares de Marvel y DC."
+    },
+    "joe-simon": {
+        "name": "Joe Simon",
+        "description": "Uno de los principales creadores/guionistas de su época, formó junto a Jack Kirby el primer equipo creativo reconocido como popular entre los lectores."
+    },
+    "john-broome": {
+        "name": "John Broome",
+        "description": "Guionista con una carrera que abarcó desde los años 40 hasta los 70, responsable de establecer héroes como Flash y Linterna Verde para DC."
+    },
+    "john-romita-sr": {
+        "name": "John Romita Sr.",
+        "description": "Uno de los legendarios artistas del \"Marvel Bullpen\" de la Edad de Plata. Co-creador de Mary Jane Watson, Punisher y Wolverine."
+    },
+    "larry-lieber": {
+        "name": "Larry Lieber",
+        "description": "Hermano de Stan Lee y legendario guionista y dibujante de cómics, co-creador de Iron Man, Thor, Loki y Odín, entre otros."
+    },
+    "len-wein": {
+        "name": "Len Wein",
+        "description": "Guionista y editor, creó a Swamp Thing y co-creó a Wolverine. Fue editor jefe de DC durante Crisis on Infinite Earths y Watchmen."
+    },
+    "mort-weisinger": {
+        "name": "Mort Weisinger",
+        "description": "Editor de Superman durante mucho tiempo en la Edad de Plata, co-creador de Aquaman, Speedy y Flecha Verde."
+    },
+    "robert-kirkman": {
+        "name": "Robert Kirkman",
+        "description": "Guionista de cómics conocido por las series Invencible y The Walking Dead, esta última adaptada a una exitosa serie de televisión."
+    },
+    "ross-andru": {
+        "name": "Ross Andru",
+        "description": "Creador discreto que trabajó para DC y Marvel. Co-creador de los Hombres de Metal y de Punisher. Trabajó como editor, dibujante y entintador."
+    },
+    "roy-thomas": {
+        "name": "Roy Thomas",
+        "description": "Segundo editor jefe en la historia de Marvel Comics, además de guionista legendario. Entre sus creaciones están Wolverine, Carol Danvers, Motorista Fantasma y Puño de Hierro."
+    },
+    "todd-mcfarlane": {
+        "name": "Todd McFarlane",
+        "description": "Se hizo famoso en Marvel antes de cofundar Image Comics, donde creó a Spawn. También fundó McFarlane Toys, una exitosa empresa de coleccionables."
     }
 }

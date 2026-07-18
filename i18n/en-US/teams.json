@@ -13,5 +13,10 @@
         "name": "X-Men",
         "description": "Team of Marvel Comics mutants fighting for a world where humans and mutants can coexist peacefully, led by Professor Xavier.",
         "firstAppearance": "The X-Men #1"
+    },
+    "justice-league": {
+        "name": "Justice League",
+        "description": "DC Comics' premier superhero team, bringing together its most powerful members to face threats no single hero could stop alone.",
+        "firstAppearance": "The Brave and the Bold #28"
     }
 }

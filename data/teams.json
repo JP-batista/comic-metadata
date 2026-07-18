@@ -14,7 +14,9 @@
             "thor",
             "hulk",
             "spider-man",
-            "hawkeye"
+            "hawkeye",
+            "black-widow",
+            "war-machine"
         ],
         "images": {
             "banner": "images/teams/avengers/banner.webp",
@@ -61,5 +63,30 @@
             "banner": "images/teams/x-men/banner.webp",
             "logo": "images/teams/x-men/logo.webp"
         }
+    },
+    "justice-league": {
+        "publisher": "dc",
+        "universe": "dc-universe",
+        "created": 1960,
+        "firstAppearance": "the-brave-and-the-bold-28",
+        "creators": [
+            "gardner-fox",
+            "mike-sekowsky"
+        ],
+        "members": [
+            "superman",
+            "batman",
+            "wonder-woman",
+            "flash",
+            "green-lantern",
+            "aquaman",
+            "martian-manhunter",
+            "cyborg",
+            "shazam",
+            "zatanna",
+            "doctor-fate",
+            "black-canary",
+            "green-arrow"
+        ]
     }
 }

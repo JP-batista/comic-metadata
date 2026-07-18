@@ -94,5 +94,245 @@
         "description": "Hal Jordan es un piloto de pruebas que recibe un anillo de poder de un alienígena moribundo, convirtiéndose en miembro del Cuerpo de Linternas Verdes, una fuerza policial intergaláctica. Creado por John Broome y Gil Kane, debutó en 1959.",
         "firstAppearance": "Showcase #22",
         "occupation": "Piloto de pruebas"
+    },
+    "superman": {
+        "name": "Superman",
+        "description": "Kal-El es un alienígena de Krypton criado en la Tierra como Clark Kent, dotado de fuerza, velocidad y vuelo sobrehumanos gracias al sol amarillo. Creado por Jerry Siegel y Joe Shuster, debutó en 1938 y es considerado el primer superhéroe de la historia.",
+        "firstAppearance": "Action Comics #1",
+        "occupation": "Periodista"
+    },
+    "wonder-woman": {
+        "name": "Mujer Maravilla",
+        "description": "Diana Prince es una princesa amazona de Themyscira dotada de fuerza, velocidad y habilidades de combate sobrehumanas. Creada por William Moulton Marston y H. G. Peter, debutó en 1941.",
+        "firstAppearance": "All Star Comics #8",
+        "occupation": "Embajadora amazona"
+    },
+    "flash": {
+        "name": "Flash",
+        "description": "Barry Allen es un perito criminalista que obtiene supervelocidad tras ser alcanzado por un rayo y productos químicos. Creado por Robert Kanigher y Carmine Infantino, debutó en 1956.",
+        "firstAppearance": "Showcase #4",
+        "occupation": "Perito criminalista"
+    },
+    "aquaman": {
+        "name": "Aquaman",
+        "description": "Arthur Curry es el rey de la Atlántida, con fuerza sobrehumana, resistencia acuática y capacidad de comunicarse con la vida marina. Creado por Mort Weisinger y Paul Norris, debutó en 1941.",
+        "firstAppearance": "More Fun Comics #73",
+        "occupation": "Rey de la Atlántida"
+    },
+    "cyborg": {
+        "name": "Cyborg",
+        "description": "Victor Stone es un atleta que se convierte en mitad humano, mitad máquina tras un accidente, obteniendo fuerza sobrehumana y la capacidad de interactuar con cualquier sistema electrónico. Creado por Marv Wolfman y George Pérez, debutó en 1980.",
+        "firstAppearance": "DC Comics Presents #26",
+        "occupation": "Estudiante"
+    },
+    "martian-manhunter": {
+        "name": "Detective Marciano",
+        "description": "J'onn J'onzz es el último superviviente de Marte, teletransportado a la Tierra, donde actúa como detective disfrazado de humano, con telepatía, metamorfosis y vuelo. Creado por Joseph Samachson y Joe Certa, debutó en 1955.",
+        "firstAppearance": "Detective Comics #225",
+        "occupation": "Detective"
+    },
+    "joker": {
+        "name": "Joker",
+        "description": "Un criminal impredecible de Gotham City, el mayor enemigo de Batman. Creado por Bill Finger, Bob Kane y Jerry Robinson, debutó en 1940.",
+        "firstAppearance": "Batman #1",
+        "occupation": "Criminal"
+    },
+    "catwoman": {
+        "name": "Catwoman",
+        "description": "Selina Kyle es una hábil ladrona de Gotham City con una relación compleja con Batman. Creada por Bill Finger y Bob Kane, debutó en 1940.",
+        "firstAppearance": "Batman #1",
+        "occupation": "Ladrona"
+    },
+    "robin": {
+        "name": "Robin",
+        "description": "Dick Grayson es un acróbata de circo que se convierte en el compañero de Batman tras la muerte de sus padres. Creado por Bill Finger, Bob Kane y Jerry Robinson, debutó en 1940.",
+        "firstAppearance": "Detective Comics #38",
+        "occupation": "Compañero de Batman"
+    },
+    "sinestro": {
+        "name": "Sinestro",
+        "description": "Thaal Sinestro es un expiloto de Linterna Verde que se convirtió en dictador del planeta Korugar y archienemigo de Linterna Verde Hal Jordan. Creado por John Broome y Gil Kane, debutó en 1961.",
+        "firstAppearance": "Green Lantern #7",
+        "occupation": "Dictador de Korugar"
+    },
+    "black-canary": {
+        "name": "Canario Negro",
+        "description": "Dinah Lance es una artista marcial e investigadora privada con el \"Grito Sónico\", un poder capaz de aturdir y destruir. Creada por Robert Kanigher y Carmine Infantino, debutó en 1947.",
+        "firstAppearance": "Flash Comics #86",
+        "occupation": "Investigadora privada"
+    },
+    "lex-luthor": {
+        "name": "Lex Luthor",
+        "description": "Un genio empresario y científico de Metrópolis, el mayor enemigo de Superman. Creado por Jerry Siegel y Joe Shuster, debutó en 1940.",
+        "firstAppearance": "Action Comics #23",
+        "occupation": "Empresario"
+    },
+    "supergirl": {
+        "name": "Supergirl",
+        "description": "Kara Zor-El es prima de Superman, también superviviente de Krypton, con los mismos poderes sobrehumanos que él. Creada por Otto Binder y Al Plastino, debutó en 1959.",
+        "firstAppearance": "Action Comics #252",
+        "occupation": "Estudiante"
+    },
+    "shazam": {
+        "name": "Shazam",
+        "description": "Billy Batson es un niño que, al decir la palabra mágica \"¡Shazam!\", se transforma en un héroe adulto con poderes otorgados por seis deidades y héroes mitológicos. Creado por Bill Parker y C. C. Beck, debutó en 1940.",
+        "firstAppearance": "Whiz Comics #2",
+        "occupation": "Estudiante"
+    },
+    "nightwing": {
+        "name": "Nightwing",
+        "description": "Dick Grayson deja atrás la identidad de Robin y adopta el manto de Nightwing, convirtiéndose en un héroe independiente. Creado por Marv Wolfman y George Pérez, debutó en 1984.",
+        "firstAppearance": "Tales of the Teen Titans #44",
+        "occupation": "Detective"
+    },
+    "deathstroke": {
+        "name": "Deathstroke",
+        "description": "Slade Wilson es un mercenario y asesino potenciado por experimentos militares, convirtiéndose en uno de los mayores enemigos de los Jóvenes Titanes. Creado por Marv Wolfman y George Pérez, debutó en 1980.",
+        "firstAppearance": "New Teen Titans #2",
+        "occupation": "Mercenario"
+    },
+    "zatanna": {
+        "name": "Zatanna",
+        "description": "Zatanna Zatara es una maga que lanza hechizos pronunciando palabras al revés, hija del también mago Zatara. Creada por Gardner Fox y Murphy Anderson, debutó en 1964.",
+        "firstAppearance": "Hawkman #4",
+        "occupation": "Maga"
+    },
+    "darkseid": {
+        "name": "Darkseid",
+        "description": "El tirano supremo del planeta Apokolips, obsesionado con descubrir la Ecuación Antivida para dominar toda la existencia. Creado por Jack Kirby, debutó en 1970.",
+        "firstAppearance": "Superman's Pal Jimmy Olsen #134",
+        "occupation": "Tirano de Apokolips"
+    },
+    "harley-quinn": {
+        "name": "Harley Quinn",
+        "description": "Harleen Quinzel era psiquiatra en el Asilo Arkham hasta que se enamoró del Joker y se convirtió en su cómplice. Creada por Paul Dini y Bruce Timm, debutó en 1992.",
+        "firstAppearance": "The Batman Adventures #12",
+        "occupation": "Expsiquiatra"
+    },
+    "doctor-fate": {
+        "name": "Doctor Destino",
+        "description": "Kent Nelson se convierte en el portador del casco mágico del Señor del Orden Nabu, obteniendo vastos poderes místicos como Doctor Destino. Creado por Gardner Fox y Howard Sherman, debutó en 1940.",
+        "firstAppearance": "More Fun Comics #55",
+        "occupation": "Hechicero"
+    },
+    "black-widow": {
+        "name": "Viuda Negra",
+        "description": "Natasha Romanoff es una exespía y asesina entrenada por la Sala Roja soviética, que se convierte en una de las agentes más hábiles de los Vengadores. Creada por Stan Lee, Don Rico y Don Heck, debutó en 1964.",
+        "firstAppearance": "Tales of Suspense #52",
+        "occupation": "Espía"
+    },
+    "bucky-barnes": {
+        "name": "Bucky Barnes",
+        "description": "James \"Bucky\" Barnes fue el compañero adolescente del Capitán América en la Segunda Guerra Mundial, dado por muerto y luego revelado como el asesino programado Soldado de Invierno. Creado por Joe Simon y Jack Kirby, debutó en 1941.",
+        "firstAppearance": "Captain America Comics #1",
+        "occupation": "Soldado"
+    },
+    "cyclops": {
+        "name": "Cíclope",
+        "description": "Scott Summers es el líder de los X-Men originales, capaz de disparar poderosos rayos de fuerza por los ojos, controlados por una visera especial. Creado por Stan Lee y Jack Kirby, debutó en 1963.",
+        "firstAppearance": "X-Men #1",
+        "occupation": "Profesor"
+    },
+    "elektra": {
+        "name": "Elektra",
+        "description": "Elektra Natchios es una asesina de élite entrenada por La Mano, expareja de Matt Murdock. Creada por Frank Miller, debutó en 1981.",
+        "firstAppearance": "Daredevil #168",
+        "occupation": "Asesina"
+    },
+    "green-goblin": {
+        "name": "Duende Verde",
+        "description": "Norman Osborn es un industrial que se convierte en villano tras un accidente con una fórmula experimental, y es el mayor enemigo de Spiderman. Creado por Stan Lee y Steve Ditko, debutó en 1964.",
+        "firstAppearance": "Amazing Spider-Man #14",
+        "occupation": "Empresario"
+    },
+    "human-torch": {
+        "name": "Antorcha Humana",
+        "description": "Johnny Storm es el miembro más joven de los Cuatro Fantásticos, capaz de arder en llamas y volar sin sufrir daño. Creado por Stan Lee y Jack Kirby, debutó en 1961.",
+        "firstAppearance": "Fantastic Four #1",
+        "occupation": "Piloto"
+    },
+    "invisible-woman": {
+        "name": "Mujer Invisible",
+        "description": "Sue Storm es miembro fundadora de los Cuatro Fantásticos, con el poder de volverse invisible y crear campos de fuerza. Creada por Stan Lee y Jack Kirby, debutó en 1961.",
+        "firstAppearance": "Fantastic Four #1",
+        "occupation": "Científica"
+    },
+    "jean-grey": {
+        "name": "Jean Grey",
+        "description": "Una de las X-Men originales, con poderes telepáticos y telequinéticos más tarde vinculados a la entidad cósmica Fénix. Creada por Stan Lee y Jack Kirby, debutó en 1963.",
+        "firstAppearance": "X-Men #1",
+        "occupation": "Estudiante"
+    },
+    "kingpin": {
+        "name": "Kingpin",
+        "description": "Wilson Fisk es el señor del crimen organizado de Nueva York, un hombre de tamaño físico inmenso y mente estratégica implacable. Creado por Stan Lee y John Romita Sr., debutó en 1967.",
+        "firstAppearance": "Amazing Spider-Man #50",
+        "occupation": "Jefe criminal"
+    },
+    "loki": {
+        "name": "Loki",
+        "description": "El dios del engaño de Asgard, hermano adoptivo de Thor, movido por la ambición y el resentimiento. Creado por Stan Lee, Larry Lieber y Jack Kirby, debutó en 1962.",
+        "firstAppearance": "Journey Into Mystery #85",
+        "occupation": "Dios asgardiano"
+    },
+    "luke-cage": {
+        "name": "Luke Cage",
+        "description": "Carl Lucas es un hombre encarcelado injustamente que obtiene piel irrompible y fuerza sobrehumana tras un experimento carcelario, convirtiéndose en el héroe de alquiler Luke Cage. Creado por Archie Goodwin, George Tuska y John Romita Sr., debutó en 1972.",
+        "firstAppearance": "Hero for Hire #1",
+        "occupation": "Héroe de alquiler"
+    },
+    "mary-jane": {
+        "name": "Mary Jane Watson",
+        "description": "Mary Jane Watson es una actriz y modelo de Nueva York, uno de los grandes amores de Peter Parker a lo largo de la historia de Spiderman. Creada por Stan Lee y John Romita Sr., su rostro se reveló en 1966.",
+        "firstAppearance": "Amazing Spider-Man #42",
+        "occupation": "Actriz"
+    },
+    "mister-fantastic": {
+        "name": "Señor Fantástico",
+        "description": "Reed Richards es el líder y científico jefe de los Cuatro Fantásticos, cuyo cuerpo puede estirarse y adoptar cualquier forma. Creado por Stan Lee y Jack Kirby, debutó en 1961.",
+        "firstAppearance": "Fantastic Four #1",
+        "occupation": "Científico"
+    },
+    "miles-morales": {
+        "name": "Miles Morales",
+        "description": "Un adolescente que obtiene poderes similares a los de Spiderman y asume el manto del héroe en su propia realidad, el Universo Ultimate. Creado por Brian Michael Bendis y Sara Pichelli, debutó en 2011.",
+        "firstAppearance": "Ultimate Fallout #4",
+        "occupation": "Estudiante"
+    },
+    "professor-x": {
+        "name": "Profesor X",
+        "description": "Charles Xavier es un poderoso telépata que funda la Escuela para Jóvenes Superdotados y lidera a los X-Men en la lucha por la convivencia pacífica entre humanos y mutantes. Creado por Stan Lee y Jack Kirby, debutó en 1963.",
+        "firstAppearance": "X-Men #1",
+        "occupation": "Profesor"
+    },
+    "she-hulk": {
+        "name": "Hulka",
+        "description": "Jennifer Walters es una abogada que obtiene los poderes de su primo Bruce Banner tras una transfusión de sangre de emergencia, convirtiéndose en Hulka. Creada por Stan Lee y John Buscema, debutó en 1980.",
+        "firstAppearance": "The Savage She-Hulk #1",
+        "occupation": "Abogada"
+    },
+    "storm": {
+        "name": "Tormenta",
+        "description": "Ororo Munroe es una mutante capaz de controlar las fuerzas de la naturaleza, venerada como diosa en su tierra natal antes de unirse a los X-Men. Creada por Len Wein y Dave Cockrum, debutó en 1975.",
+        "firstAppearance": "Giant-Size X-Men #1",
+        "occupation": "X-Men"
+    },
+    "thing": {
+        "name": "La Cosa",
+        "description": "Ben Grimm es un piloto de pruebas transformado en una criatura rocosa de fuerza colosal por el mismo viaje espacial que creó a los Cuatro Fantásticos. Creado por Stan Lee y Jack Kirby, debutó en 1961.",
+        "firstAppearance": "Fantastic Four #1",
+        "occupation": "Piloto"
+    },
+    "venom": {
+        "name": "Venom",
+        "description": "Eddie Brock se fusiona con un simbionte alienígena que antes perteneció a Spiderman, convirtiéndose en un peligroso antagonista con poderes similares a los del héroe. Creado por David Michelinie y Todd McFarlane, debutó en 1988.",
+        "firstAppearance": "Amazing Spider-Man #300",
+        "occupation": "Periodista"
+    },
+    "war-machine": {
+        "name": "Máquina de Guerra",
+        "description": "James Rhodes es el mejor amigo de Tony Stark y un piloto militar que viste su propia armadura pesada de combate. Creado por David Michelinie, John Romita Sr. y Bob Layton, debutó en 1979.",
+        "firstAppearance": "Iron Man #118",
+        "occupation": "Piloto militar"
     }
 }

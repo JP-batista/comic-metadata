@@ -110,6 +110,150 @@
         "western": [
             "faroeste",
             "velho oeste"
+        ],
+        "superman": [
+            "super-homem",
+            "superhomem"
+        ],
+        "wonder-woman": [
+            "mulher-maravilha",
+            "mulher maravilha"
+        ],
+        "flash": [
+            "flash",
+            "barry allen"
+        ],
+        "aquaman": [
+            "aquaman"
+        ],
+        "cyborg": [
+            "cyborg"
+        ],
+        "martian-manhunter": [
+            "detetive marciano",
+            "cacador de marte",
+            "caçador de marte"
+        ],
+        "joker": [
+            "coringa"
+        ],
+        "catwoman": [
+            "mulher-gato",
+            "mulher gato"
+        ],
+        "robin": [
+            "robin",
+            "dick grayson"
+        ],
+        "sinestro": [
+            "sinestro"
+        ],
+        "black-canary": [
+            "canario negro",
+            "canário negro"
+        ],
+        "lex-luthor": [
+            "lex luthor"
+        ],
+        "supergirl": [
+            "supergirl"
+        ],
+        "shazam": [
+            "shazam"
+        ],
+        "nightwing": [
+            "asa noturna"
+        ],
+        "deathstroke": [
+            "exterminador"
+        ],
+        "zatanna": [
+            "zatanna"
+        ],
+        "darkseid": [
+            "darkseid"
+        ],
+        "harley-quinn": [
+            "arlequina",
+            "harley quinn"
+        ],
+        "doctor-fate": [
+            "doutor destino"
+        ],
+        "justice-league": [
+            "liga da justica",
+            "liga da justiça"
+        ],
+        "black-widow": [
+            "viuva negra",
+            "viúva negra"
+        ],
+        "bucky-barnes": [
+            "bucky",
+            "bucky barnes",
+            "soldado invernal"
+        ],
+        "cyclops": [
+            "ciclope",
+            "cíclope"
+        ],
+        "elektra": [
+            "elektra"
+        ],
+        "green-goblin": [
+            "duende verde"
+        ],
+        "human-torch": [
+            "tocha humana"
+        ],
+        "invisible-woman": [
+            "mulher invisivel",
+            "mulher invisível"
+        ],
+        "jean-grey": [
+            "jean grey"
+        ],
+        "kingpin": [
+            "rei do crime",
+            "kingpin"
+        ],
+        "loki": [
+            "loki"
+        ],
+        "luke-cage": [
+            "luke cage"
+        ],
+        "mary-jane": [
+            "mary jane",
+            "mj"
+        ],
+        "mister-fantastic": [
+            "senhor fantastico",
+            "senhor fantástico"
+        ],
+        "miles-morales": [
+            "miles morales"
+        ],
+        "professor-x": [
+            "professor x",
+            "charles xavier"
+        ],
+        "she-hulk": [
+            "mulher-hulk",
+            "mulher hulk"
+        ],
+        "storm": [
+            "tempestade"
+        ],
+        "thing": [
+            "coisa"
+        ],
+        "venom": [
+            "venom"
+        ],
+        "war-machine": [
+            "maquina de guerra",
+            "máquina de guerra"
         ]
     },
     "en-US": {
@@ -220,6 +364,145 @@
         ],
         "western": [
             "western"
+        ],
+        "superman": [
+            "superman",
+            "clark kent"
+        ],
+        "wonder-woman": [
+            "wonder woman",
+            "diana prince"
+        ],
+        "flash": [
+            "flash",
+            "barry allen"
+        ],
+        "aquaman": [
+            "aquaman"
+        ],
+        "cyborg": [
+            "cyborg"
+        ],
+        "martian-manhunter": [
+            "martian manhunter",
+            "j'onn j'onzz"
+        ],
+        "joker": [
+            "joker"
+        ],
+        "catwoman": [
+            "catwoman"
+        ],
+        "robin": [
+            "robin",
+            "dick grayson"
+        ],
+        "sinestro": [
+            "sinestro"
+        ],
+        "black-canary": [
+            "black canary"
+        ],
+        "lex-luthor": [
+            "lex luthor"
+        ],
+        "supergirl": [
+            "supergirl"
+        ],
+        "shazam": [
+            "shazam"
+        ],
+        "nightwing": [
+            "nightwing"
+        ],
+        "deathstroke": [
+            "deathstroke",
+            "slade wilson"
+        ],
+        "zatanna": [
+            "zatanna"
+        ],
+        "darkseid": [
+            "darkseid"
+        ],
+        "harley-quinn": [
+            "harley quinn"
+        ],
+        "doctor-fate": [
+            "doctor fate"
+        ],
+        "justice-league": [
+            "justice league",
+            "jla"
+        ],
+        "black-widow": [
+            "black widow",
+            "natasha romanoff"
+        ],
+        "bucky-barnes": [
+            "bucky",
+            "bucky barnes",
+            "winter soldier"
+        ],
+        "cyclops": [
+            "cyclops",
+            "scott summers"
+        ],
+        "elektra": [
+            "elektra"
+        ],
+        "green-goblin": [
+            "green goblin"
+        ],
+        "human-torch": [
+            "human torch"
+        ],
+        "invisible-woman": [
+            "invisible woman"
+        ],
+        "jean-grey": [
+            "jean grey"
+        ],
+        "kingpin": [
+            "kingpin"
+        ],
+        "loki": [
+            "loki"
+        ],
+        "luke-cage": [
+            "luke cage"
+        ],
+        "mary-jane": [
+            "mary jane",
+            "mj"
+        ],
+        "mister-fantastic": [
+            "mister fantastic",
+            "reed richards"
+        ],
+        "miles-morales": [
+            "miles morales"
+        ],
+        "professor-x": [
+            "professor x",
+            "charles xavier"
+        ],
+        "she-hulk": [
+            "she-hulk",
+            "she hulk"
+        ],
+        "storm": [
+            "storm"
+        ],
+        "thing": [
+            "thing",
+            "the thing"
+        ],
+        "venom": [
+            "venom"
+        ],
+        "war-machine": [
+            "war machine"
         ]
     },
     "es-ES": {
@@ -338,6 +621,140 @@
         "western": [
             "western",
             "oeste"
+        ],
+        "superman": [
+            "superman"
+        ],
+        "wonder-woman": [
+            "mujer maravilla"
+        ],
+        "flash": [
+            "flash",
+            "barry allen"
+        ],
+        "aquaman": [
+            "aquaman"
+        ],
+        "cyborg": [
+            "cyborg"
+        ],
+        "martian-manhunter": [
+            "detective marciano"
+        ],
+        "joker": [
+            "joker",
+            "guason",
+            "guasón"
+        ],
+        "catwoman": [
+            "catwoman",
+            "gatubela",
+            "gatúbela"
+        ],
+        "robin": [
+            "robin"
+        ],
+        "sinestro": [
+            "sinestro"
+        ],
+        "black-canary": [
+            "canario negro"
+        ],
+        "lex-luthor": [
+            "lex luthor"
+        ],
+        "supergirl": [
+            "supergirl"
+        ],
+        "shazam": [
+            "shazam"
+        ],
+        "nightwing": [
+            "nightwing"
+        ],
+        "deathstroke": [
+            "deathstroke"
+        ],
+        "zatanna": [
+            "zatanna"
+        ],
+        "darkseid": [
+            "darkseid"
+        ],
+        "harley-quinn": [
+            "harley quinn"
+        ],
+        "doctor-fate": [
+            "doctor destino"
+        ],
+        "justice-league": [
+            "liga de la justicia"
+        ],
+        "black-widow": [
+            "viuda negra"
+        ],
+        "bucky-barnes": [
+            "bucky",
+            "bucky barnes",
+            "soldado de invierno"
+        ],
+        "cyclops": [
+            "ciclope",
+            "cíclope"
+        ],
+        "elektra": [
+            "elektra"
+        ],
+        "green-goblin": [
+            "duende verde"
+        ],
+        "human-torch": [
+            "antorcha humana"
+        ],
+        "invisible-woman": [
+            "mujer invisible"
+        ],
+        "jean-grey": [
+            "jean grey"
+        ],
+        "kingpin": [
+            "kingpin"
+        ],
+        "loki": [
+            "loki"
+        ],
+        "luke-cage": [
+            "luke cage"
+        ],
+        "mary-jane": [
+            "mary jane"
+        ],
+        "mister-fantastic": [
+            "senor fantastico",
+            "señor fantástico"
+        ],
+        "miles-morales": [
+            "miles morales"
+        ],
+        "professor-x": [
+            "profesor x",
+            "charles xavier"
+        ],
+        "she-hulk": [
+            "hulka"
+        ],
+        "storm": [
+            "tormenta"
+        ],
+        "thing": [
+            "la cosa"
+        ],
+        "venom": [
+            "venom"
+        ],
+        "war-machine": [
+            "maquina de guerra",
+            "máquina de guerra"
         ]
     },
     "fr-FR": {},

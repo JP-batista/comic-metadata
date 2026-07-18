@@ -27,6 +27,24 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), e o
 - Logos de `avengers`, `fantastic-four` e `x-men` substituídos por novas artes de quadrinho.
 - `teams.json` ganhou os campos `universe`, `created`, `firstAppearance` e `creators` para os 3 times (mesmo padrão já usado em `characters.json`): Avengers #1 (1963), Fantastic Four #1 (1961) e The X-Men #1 (1963), todos por Stan Lee e Jack Kirby. `firstAppearance` (texto de exibição) também adicionado nas traduções.
 - `data/search_index.json` regenerado do zero a partir de `aliases.json` + todos os arquivos de `data/` (109 → 122 entradas). Corrige o alias `invencible` (es-ES) que nunca tinha sido propagado, e passa a incluir o próprio ID de cada entidade como termo pesquisável (antes só as variações cadastradas em `aliases.json` funcionavam).
+- Os 22 criadores que ficavam como referência pendente agora têm entrada própria em `creators.json` (nascimento/morte) e tradução (nome + bio) em pt-BR/en-US/es-ES, pesquisados via API do Comic Vine em vez de estimados de memória — algumas datas que tínhamos em mente (dia/mês) estavam erradas, corrigidas agora com fonte verificada.
+- 20 novos personagens DC: `superman`, `wonder-woman`, `flash`, `aquaman`, `cyborg`, `martian-manhunter`, `joker`, `catwoman`, `robin`, `sinestro`, `black-canary`, `lex-luthor`, `supergirl`, `shazam`, `nightwing`, `deathstroke`, `zatanna`, `darkseid`, `harley-quinn`, `doctor-fate`. Dados estruturais completos, traduções pt-BR/en-US/es-ES, aliases e `search_index.json`. Imagens ainda pendentes (36 personagens no total agora).
+- Novo time: `justice-league` (The Brave and the Bold #28, 1960, Gardner Fox e Mike Sekowsky), resolvendo a referência pendente que `batman`, `green-lantern`, `green-arrow` e outros já apontavam. Imagens ainda pendentes.
+- Resolvidas as referências soltas de `relatedCharacters` que existiam desde os lotes anteriores: `joker`, `catwoman`, `robin` (de `batman`), `sinestro` (de `green-lantern`) e `black-canary` (de `green-arrow`) agora têm ficha própria.
+
+- Imagens (`avatar`, `banner`) dos 20 personagens DC, obtidas via Comic Vine API (arte de capa oficial, verificada por nome exato + contagem de aparições para evitar personagens homônimos errados). `robin` usou a capa de Detective Comics #38 (1940) via CoverBrowser, já que no Comic Vine ele e o Asa Noturna compartilham a mesma página de personagem.
+- Imagens (`avatar`, `banner`) dos 22 criadores pendentes, com fotos reais obtidas via Comic Vine API.
+
+### Nota
+
+- Durante a pesquisa dos 20 personagens, a busca automática na Comic Vine API retornou registros errados para nomes populares (ex.: um "Superman" alternativo da Tangent Comics, histórias de "Flash" e "Coringa" sem relação com a primeira aparição real) — a base tem múltiplos personagens com nomes iguais/parecidos e a busca simples pegou o registro errado algumas vezes. Nesses casos, os dados estruturais (ano, edição, criadores) vieram do conhecimento já verificado em vez da API, para não propagar erro. Para as imagens, o problema foi contornado buscando por nome exato e priorizando o registro com mais aparições em edições.
+
+### Added (continuação)
+
+- 20 novos personagens Marvel: `black-widow`, `bucky-barnes`, `cyclops`, `elektra`, `green-goblin`, `human-torch`, `invisible-woman`, `jean-grey`, `kingpin`, `loki`, `luke-cage`, `mary-jane`, `mister-fantastic`, `miles-morales`, `professor-x`, `she-hulk`, `storm`, `thing`, `venom`, `war-machine`. Dados estruturais, imagens (avatar/banner via Comic Vine, mesma técnica de nome exato + contagem de aparições), traduções pt-BR/en-US/es-ES, aliases e `search_index.json`.
+- `avengers.members` passou a incluir `black-widow` e `war-machine`.
+
+Esse lote resolve **todas** as referências pendentes de `relatedCharacters` e membros de time que existiam desde os primeiros lotes (só sobrou `omni-man`, do Invencível). 56 personagens no total agora, todos com imagens completas.
 
 - Creators referenciados pelos personagens desta leva (ex.: `jack-kirby`, `joe-simon`, `stan-lee`, `bill-everett`, `don-heck`, `gerry-conway`, `john-romita-sr`, `ross-andru`, `roy-thomas`, `gil-kane`, `larry-lieber`, `len-wein`, `herb-trimpe`, `mort-weisinger`, `george-papp`, `robert-kirkman`, `cory-walker`, `todd-mcfarlane`, `gian-luigi-bonelli`, `aurelio-galleppini`) ainda não têm entrada própria em `creators.json` — ficam como referência pendente, no mesmo padrão já usado para `relatedCharacters`.
 

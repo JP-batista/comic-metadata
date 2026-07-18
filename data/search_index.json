@@ -63,6 +63,166 @@
         "type": "character",
         "id": "green-lantern"
     },
+    "superman": {
+        "type": "character",
+        "id": "superman"
+    },
+    "wonder-woman": {
+        "type": "character",
+        "id": "wonder-woman"
+    },
+    "flash": {
+        "type": "character",
+        "id": "flash"
+    },
+    "aquaman": {
+        "type": "character",
+        "id": "aquaman"
+    },
+    "cyborg": {
+        "type": "character",
+        "id": "cyborg"
+    },
+    "martian-manhunter": {
+        "type": "character",
+        "id": "martian-manhunter"
+    },
+    "joker": {
+        "type": "character",
+        "id": "joker"
+    },
+    "catwoman": {
+        "type": "character",
+        "id": "catwoman"
+    },
+    "robin": {
+        "type": "character",
+        "id": "robin"
+    },
+    "sinestro": {
+        "type": "character",
+        "id": "sinestro"
+    },
+    "black-canary": {
+        "type": "character",
+        "id": "black-canary"
+    },
+    "lex-luthor": {
+        "type": "character",
+        "id": "lex-luthor"
+    },
+    "supergirl": {
+        "type": "character",
+        "id": "supergirl"
+    },
+    "shazam": {
+        "type": "character",
+        "id": "shazam"
+    },
+    "nightwing": {
+        "type": "character",
+        "id": "nightwing"
+    },
+    "deathstroke": {
+        "type": "character",
+        "id": "deathstroke"
+    },
+    "zatanna": {
+        "type": "character",
+        "id": "zatanna"
+    },
+    "darkseid": {
+        "type": "character",
+        "id": "darkseid"
+    },
+    "harley-quinn": {
+        "type": "character",
+        "id": "harley-quinn"
+    },
+    "doctor-fate": {
+        "type": "character",
+        "id": "doctor-fate"
+    },
+    "black-widow": {
+        "type": "character",
+        "id": "black-widow"
+    },
+    "bucky-barnes": {
+        "type": "character",
+        "id": "bucky-barnes"
+    },
+    "cyclops": {
+        "type": "character",
+        "id": "cyclops"
+    },
+    "elektra": {
+        "type": "character",
+        "id": "elektra"
+    },
+    "green-goblin": {
+        "type": "character",
+        "id": "green-goblin"
+    },
+    "human-torch": {
+        "type": "character",
+        "id": "human-torch"
+    },
+    "invisible-woman": {
+        "type": "character",
+        "id": "invisible-woman"
+    },
+    "jean-grey": {
+        "type": "character",
+        "id": "jean-grey"
+    },
+    "kingpin": {
+        "type": "character",
+        "id": "kingpin"
+    },
+    "loki": {
+        "type": "character",
+        "id": "loki"
+    },
+    "luke-cage": {
+        "type": "character",
+        "id": "luke-cage"
+    },
+    "mary-jane": {
+        "type": "character",
+        "id": "mary-jane"
+    },
+    "mister-fantastic": {
+        "type": "character",
+        "id": "mister-fantastic"
+    },
+    "miles-morales": {
+        "type": "character",
+        "id": "miles-morales"
+    },
+    "professor-x": {
+        "type": "character",
+        "id": "professor-x"
+    },
+    "she-hulk": {
+        "type": "character",
+        "id": "she-hulk"
+    },
+    "storm": {
+        "type": "character",
+        "id": "storm"
+    },
+    "thing": {
+        "type": "character",
+        "id": "thing"
+    },
+    "venom": {
+        "type": "character",
+        "id": "venom"
+    },
+    "war-machine": {
+        "type": "character",
+        "id": "war-machine"
+    },
     "marvel": {
         "type": "publisher",
         "id": "marvel"
@@ -90,6 +250,10 @@
     "x-men": {
         "type": "team",
         "id": "x-men"
+    },
+    "justice-league": {
+        "type": "team",
+        "id": "justice-league"
     },
     "marvel-universe": {
         "type": "universe",
@@ -283,6 +447,202 @@
         "type": "genre",
         "id": "western"
     },
+    "super-homem": {
+        "type": "character",
+        "id": "superman"
+    },
+    "superhomem": {
+        "type": "character",
+        "id": "superman"
+    },
+    "mulher-maravilha": {
+        "type": "character",
+        "id": "wonder-woman"
+    },
+    "mulher maravilha": {
+        "type": "character",
+        "id": "wonder-woman"
+    },
+    "barry allen": {
+        "type": "character",
+        "id": "flash"
+    },
+    "detetive marciano": {
+        "type": "character",
+        "id": "martian-manhunter"
+    },
+    "cacador de marte": {
+        "type": "character",
+        "id": "martian-manhunter"
+    },
+    "caçador de marte": {
+        "type": "character",
+        "id": "martian-manhunter"
+    },
+    "coringa": {
+        "type": "character",
+        "id": "joker"
+    },
+    "mulher-gato": {
+        "type": "character",
+        "id": "catwoman"
+    },
+    "mulher gato": {
+        "type": "character",
+        "id": "catwoman"
+    },
+    "dick grayson": {
+        "type": "character",
+        "id": "robin"
+    },
+    "canario negro": {
+        "type": "character",
+        "id": "black-canary"
+    },
+    "canário negro": {
+        "type": "character",
+        "id": "black-canary"
+    },
+    "lex luthor": {
+        "type": "character",
+        "id": "lex-luthor"
+    },
+    "asa noturna": {
+        "type": "character",
+        "id": "nightwing"
+    },
+    "exterminador": {
+        "type": "character",
+        "id": "deathstroke"
+    },
+    "arlequina": {
+        "type": "character",
+        "id": "harley-quinn"
+    },
+    "harley quinn": {
+        "type": "character",
+        "id": "harley-quinn"
+    },
+    "doutor destino": {
+        "type": "character",
+        "id": "doctor-fate"
+    },
+    "liga da justica": {
+        "type": "team",
+        "id": "justice-league"
+    },
+    "liga da justiça": {
+        "type": "team",
+        "id": "justice-league"
+    },
+    "viuva negra": {
+        "type": "character",
+        "id": "black-widow"
+    },
+    "viúva negra": {
+        "type": "character",
+        "id": "black-widow"
+    },
+    "bucky": {
+        "type": "character",
+        "id": "bucky-barnes"
+    },
+    "bucky barnes": {
+        "type": "character",
+        "id": "bucky-barnes"
+    },
+    "soldado invernal": {
+        "type": "character",
+        "id": "bucky-barnes"
+    },
+    "ciclope": {
+        "type": "character",
+        "id": "cyclops"
+    },
+    "cíclope": {
+        "type": "character",
+        "id": "cyclops"
+    },
+    "duende verde": {
+        "type": "character",
+        "id": "green-goblin"
+    },
+    "tocha humana": {
+        "type": "character",
+        "id": "human-torch"
+    },
+    "mulher invisivel": {
+        "type": "character",
+        "id": "invisible-woman"
+    },
+    "mulher invisível": {
+        "type": "character",
+        "id": "invisible-woman"
+    },
+    "jean grey": {
+        "type": "character",
+        "id": "jean-grey"
+    },
+    "rei do crime": {
+        "type": "character",
+        "id": "kingpin"
+    },
+    "luke cage": {
+        "type": "character",
+        "id": "luke-cage"
+    },
+    "mary jane": {
+        "type": "character",
+        "id": "mary-jane"
+    },
+    "mj": {
+        "type": "character",
+        "id": "mary-jane"
+    },
+    "senhor fantastico": {
+        "type": "character",
+        "id": "mister-fantastic"
+    },
+    "senhor fantástico": {
+        "type": "character",
+        "id": "mister-fantastic"
+    },
+    "miles morales": {
+        "type": "character",
+        "id": "miles-morales"
+    },
+    "professor x": {
+        "type": "character",
+        "id": "professor-x"
+    },
+    "charles xavier": {
+        "type": "character",
+        "id": "professor-x"
+    },
+    "mulher-hulk": {
+        "type": "character",
+        "id": "she-hulk"
+    },
+    "mulher hulk": {
+        "type": "character",
+        "id": "she-hulk"
+    },
+    "tempestade": {
+        "type": "character",
+        "id": "storm"
+    },
+    "coisa": {
+        "type": "character",
+        "id": "thing"
+    },
+    "maquina de guerra": {
+        "type": "character",
+        "id": "war-machine"
+    },
+    "máquina de guerra": {
+        "type": "character",
+        "id": "war-machine"
+    },
     "spiderman": {
         "type": "character",
         "id": "spider-man"
@@ -374,6 +734,94 @@
     "super hero": {
         "type": "genre",
         "id": "superhero"
+    },
+    "clark kent": {
+        "type": "character",
+        "id": "superman"
+    },
+    "wonder woman": {
+        "type": "character",
+        "id": "wonder-woman"
+    },
+    "diana prince": {
+        "type": "character",
+        "id": "wonder-woman"
+    },
+    "martian manhunter": {
+        "type": "character",
+        "id": "martian-manhunter"
+    },
+    "j'onn j'onzz": {
+        "type": "character",
+        "id": "martian-manhunter"
+    },
+    "black canary": {
+        "type": "character",
+        "id": "black-canary"
+    },
+    "slade wilson": {
+        "type": "character",
+        "id": "deathstroke"
+    },
+    "doctor fate": {
+        "type": "character",
+        "id": "doctor-fate"
+    },
+    "justice league": {
+        "type": "team",
+        "id": "justice-league"
+    },
+    "jla": {
+        "type": "team",
+        "id": "justice-league"
+    },
+    "black widow": {
+        "type": "character",
+        "id": "black-widow"
+    },
+    "natasha romanoff": {
+        "type": "character",
+        "id": "black-widow"
+    },
+    "winter soldier": {
+        "type": "character",
+        "id": "bucky-barnes"
+    },
+    "scott summers": {
+        "type": "character",
+        "id": "cyclops"
+    },
+    "green goblin": {
+        "type": "character",
+        "id": "green-goblin"
+    },
+    "human torch": {
+        "type": "character",
+        "id": "human-torch"
+    },
+    "invisible woman": {
+        "type": "character",
+        "id": "invisible-woman"
+    },
+    "mister fantastic": {
+        "type": "character",
+        "id": "mister-fantastic"
+    },
+    "reed richards": {
+        "type": "character",
+        "id": "mister-fantastic"
+    },
+    "she hulk": {
+        "type": "character",
+        "id": "she-hulk"
+    },
+    "the thing": {
+        "type": "character",
+        "id": "thing"
+    },
+    "war machine": {
+        "type": "character",
+        "id": "war-machine"
     },
     "hombre araña": {
         "type": "character",
@@ -486,5 +934,77 @@
     "oeste": {
         "type": "genre",
         "id": "western"
+    },
+    "mujer maravilla": {
+        "type": "character",
+        "id": "wonder-woman"
+    },
+    "detective marciano": {
+        "type": "character",
+        "id": "martian-manhunter"
+    },
+    "guason": {
+        "type": "character",
+        "id": "joker"
+    },
+    "guasón": {
+        "type": "character",
+        "id": "joker"
+    },
+    "gatubela": {
+        "type": "character",
+        "id": "catwoman"
+    },
+    "gatúbela": {
+        "type": "character",
+        "id": "catwoman"
+    },
+    "doctor destino": {
+        "type": "character",
+        "id": "doctor-fate"
+    },
+    "liga de la justicia": {
+        "type": "team",
+        "id": "justice-league"
+    },
+    "viuda negra": {
+        "type": "character",
+        "id": "black-widow"
+    },
+    "soldado de invierno": {
+        "type": "character",
+        "id": "bucky-barnes"
+    },
+    "antorcha humana": {
+        "type": "character",
+        "id": "human-torch"
+    },
+    "mujer invisible": {
+        "type": "character",
+        "id": "invisible-woman"
+    },
+    "senor fantastico": {
+        "type": "character",
+        "id": "mister-fantastic"
+    },
+    "señor fantástico": {
+        "type": "character",
+        "id": "mister-fantastic"
+    },
+    "profesor x": {
+        "type": "character",
+        "id": "professor-x"
+    },
+    "hulka": {
+        "type": "character",
+        "id": "she-hulk"
+    },
+    "tormenta": {
+        "type": "character",
+        "id": "storm"
+    },
+    "la cosa": {
+        "type": "character",
+        "id": "thing"
     }
 }

@@ -6,5 +6,93 @@
     "steve-ditko": {
         "name": "Steve Ditko",
         "description": "Desenhista e co-criador do Homem-Aranha e do Doutor Estranho ao lado de Stan Lee, conhecido por seu estilo visual único e surreal."
+    },
+    "aurelio-galleppini": {
+        "name": "Aurelio Galleppini",
+        "description": "Desenhista italiano conhecido como Galep, foi o primeiro artista de Tex Willer, desenhando o personagem por mais de 40 anos."
+    },
+    "bill-everett": {
+        "name": "Bill Everett",
+        "description": "Lenda da Era de Ouro dos quadrinhos, criou o Namor e co-criou o Demolidor. Trabalhou pela Atlas, Timely e Marvel Comics."
+    },
+    "bill-finger": {
+        "name": "Bill Finger",
+        "description": "Roteirista prolífico da Era de Ouro, co-criador do Batman, do Robin e do Lanterna Verde. Só teve o nome oficialmente associado ao Batman em 2016."
+    },
+    "bob-kane": {
+        "name": "Bob Kane",
+        "description": "Cartunista considerado co-criador do Batman ao lado de Bill Finger. Introduzido no Hall da Fama Jack Kirby e no Will Eisner Comic Book Hall of Fame."
+    },
+    "cory-walker": {
+        "name": "Cory Walker",
+        "description": "Desenhista de quadrinhos, co-criador de Invencível ao lado de Robert Kirkman."
+    },
+    "don-heck": {
+        "name": "Don Heck",
+        "description": "Artista lendário que co-criou o Homem de Ferro, o Gavião Arqueiro, a Viúva Negra e o Wonder Man."
+    },
+    "george-papp": {
+        "name": "George Papp",
+        "description": "Artista da Era de Ouro que trabalhou na DC quando ainda era chamada de National Periodicals. Criador do Arqueiro Verde."
+    },
+    "gerry-conway": {
+        "name": "Gerry Conway",
+        "description": "Roteirista americano conhecido por co-criar o Justiceiro (com o artista Ross Andru) e por escrever a morte de Gwen Stacy em Amazing Spider-Man. Também co-criou o Firestorm, da DC."
+    },
+    "gian-luigi-bonelli": {
+        "name": "Gian Luigi Bonelli",
+        "description": "Roteirista italiano, co-criador de Tex Willer e fundador da editora Sergio Bonelli Editore."
+    },
+    "gil-kane": {
+        "name": "Gil Kane",
+        "description": "Lenda dos quadrinhos que atravessou várias eras do meio. Criador ou co-criador de Hal Jordan, Punho de Ferro, Átomo, Guy Gardner e Sinestro, entre outros."
+    },
+    "herb-trimpe": {
+        "name": "Herb Trimpe",
+        "description": "Artista lendário da Era de Prata, conhecido pelo trabalho nos anos 1970 em The Incredible Hulk. Co-criador do Wolverine."
+    },
+    "jack-kirby": {
+        "name": "Jack Kirby",
+        "description": "Um dos maiores nomes da história dos quadrinhos, conhecido como \"O Rei\". Criou e co-criou boa parte dos personagens mais populares da Marvel e da DC."
+    },
+    "joe-simon": {
+        "name": "Joe Simon",
+        "description": "Um dos principais criadores/roteiristas de sua época, formou com Jack Kirby a primeira dupla criativa reconhecida como popular entre os leitores."
+    },
+    "john-broome": {
+        "name": "John Broome",
+        "description": "Roteirista com carreira dos anos 1940 aos 1970, responsável por estabelecer heróis como o Flash e o Lanterna Verde para a DC."
+    },
+    "john-romita-sr": {
+        "name": "John Romita Sr.",
+        "description": "Um dos lendários artistas da \"Marvel Bullpen\" da Era de Prata. Co-criador de Mary Jane Watson, do Justiceiro e do Wolverine."
+    },
+    "larry-lieber": {
+        "name": "Larry Lieber",
+        "description": "Irmão de Stan Lee e lendário roteirista e artista de quadrinhos, co-criador do Homem de Ferro, do Thor, do Loki e de Odin, entre outros."
+    },
+    "len-wein": {
+        "name": "Len Wein",
+        "description": "Roteirista e editor, criou personagens famosos como o Monstro do Pântano e co-criou o Wolverine. Foi editor-chefe da DC durante Crisis on Infinite Earths e Watchmen."
+    },
+    "mort-weisinger": {
+        "name": "Mort Weisinger",
+        "description": "Editor de longa data do Superman durante a Era de Prata, co-criador do Aquaman, do Ricardito e do Arqueiro Verde."
+    },
+    "robert-kirkman": {
+        "name": "Robert Kirkman",
+        "description": "Roteirista de quadrinhos conhecido pelas séries Invencível e The Walking Dead, esta última adaptada para uma bem-sucedida série de TV."
+    },
+    "ross-andru": {
+        "name": "Ross Andru",
+        "description": "Criador discreto que trabalhou para DC e Marvel. Co-criador dos Homens de Metal e do Justiceiro. Atuou como editor, desenhista e arte-finalista."
+    },
+    "roy-thomas": {
+        "name": "Roy Thomas",
+        "description": "Segundo editor-chefe da história da Marvel Comics, além de roteirista. Entre suas criações estão Wolverine, Carol Danvers, Motoqueiro Fantasma e Punho de Ferro."
+    },
+    "todd-mcfarlane": {
+        "name": "Todd McFarlane",
+        "description": "Ganhou fama na Marvel antes de cofundar a Image Comics, onde criou Spawn. Também fundou a McFarlane Toys, empresa de brinquedos colecionáveis."
     }
 }
